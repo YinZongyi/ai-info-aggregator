@@ -69,7 +69,7 @@
 
 进入 **Actions** 标签页，点击 **"I understand my workflows, go ahead and enable them"**。
 
-**完成。** 每天北京时间 09:00 自动运行，结果写入 `output/` 目录。
+**完成。** 每天北京时间 06:00 自动运行，结果写入 `output/` 目录。
 
 ---
 
