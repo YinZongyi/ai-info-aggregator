@@ -8,7 +8,7 @@
 
 ## 效果预览
 
-每天早上 9 点（北京时间）自动生成，推送到 GitHub，Obsidian 自动同步到本地。
+每天早上 6 点（北京时间）自动生成，推送到 GitHub，Obsidian 自动同步到本地。
 
 ```markdown
 ## OPC/AI赚钱案例
