@@ -3641,6 +3641,156 @@
       "pushed_at": "2026-05-11",
       "title": "OTA 升级后续航减 200 KM，央视揭秘新能源汽车「锁电」真相；黄仁勋：别怕 AI，今天是应届生最好时机：微信测试「组合支付」功能｜极客早知道",
       "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1ta6on6/i_wanted_to_visualize_github_repos_in_3d_a_week/",
+      "pushed_at": "2026-05-12",
+      "title": "I wanted to visualize GitHub repos in 3D. A week later there are villagers throwing snowballs at me",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1talhwk/i_got_tired_of_manually_editing_json_to_disable/",
+      "pushed_at": "2026-05-12",
+      "title": "I got tired of manually editing JSON to disable agent skills, so I built a native GUI to manage configs of Claude, Codex, Opencode, etc",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1tamk8s/i_built_my_local_seo_tool_after_realizing_one/",
+      "pushed_at": "2026-05-12",
+      "title": "I built my local SEO tool after realizing one Google search tells you almost nothing about local rankings",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1tam83o/i_got_fired_so_i_made_my_own_tool_its_not_that/",
+      "pushed_at": "2026-05-12",
+      "title": "I got fired, so I made my own tool (it's not that good)",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/Entrepreneur/comments/1ta6mi0/turns_out_the_kid_who_couldnt_sit_still_in_class/",
+      "pushed_at": "2026-05-12",
+      "title": "Turns out the kid who couldn't sit still in class was just 20 years early for the AI era.",
+      "score": 7
+    },
+    {
+      "url": "https://simonwillison.net/2026/May/11/gitlab-act-2/#atom-everything",
+      "pushed_at": "2026-05-12",
+      "title": "Thoughts on GitLab's workforce reduction\" and \"structural and strategic decisions\"",
+      "score": 7
+    },
+    {
+      "url": "https://github.com/njbrake/agent-of-empires",
+      "pushed_at": "2026-05-12",
+      "title": "Show HN: I've implemented multi-repo workspace support in Agent of Empires",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tag1ks/500k_context_on_48gb_vram_21toks_coding/",
+      "pushed_at": "2026-05-12",
+      "title": "500k context on 48gb VRAM!! - 21tok/s (coding)",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ta53a2/qwen36_35ba3b/",
+      "pushed_at": "2026-05-12",
+      "title": "Qwen3.6 35b-a3b 🤯",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t9zmbb/new_gguf_uploads_on_hf_nearly_doubled_in_2_months/",
+      "pushed_at": "2026-05-12",
+      "title": "New GGUF uploads on HF nearly doubled in 2 months",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tany5t/drastically_improve_prompt_processing_speed_for/",
+      "pushed_at": "2026-05-12",
+      "title": "Drastically improve prompt processing speed for --n-cpu-moe partially offloaded models",
+      "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ta1og5/psa_watch_out_for_extra_spaces_in/",
+      "pushed_at": "2026-05-12",
+      "title": "PSA: Watch out for extra spaces in chat-template-kwargs when using Qwen3.6 with llama-server",
+      "score": 9
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1taoae0/blackwell_llm_toolkit_nvfp4_config_wheels/",
+      "pushed_at": "2026-05-12",
+      "title": "Blackwell LLM Toolkit - NVFP4 Config +Wheels + Benchmarks for Blackwell GPUs via TensorRT-LLM - 270 tk/s Nemotron 3 Omni",
+      "score": 9
+    },
+    {
+      "url": "https://github.com/yikart/AiToEarn",
+      "pushed_at": "2026-05-12",
+      "title": "yikart/AiToEarn",
+      "score": 6
+    },
+    {
+      "url": "https://github.com/playcanvas/supersplat",
+      "pushed_at": "2026-05-12",
+      "title": "playcanvas/supersplat",
+      "score": 6
+    },
+    {
+      "url": "https://github.com/tinyhumansai/openhuman",
+      "pushed_at": "2026-05-12",
+      "title": "tinyhumansai/openhuman",
+      "score": 7
+    },
+    {
+      "url": "https://github.com/millionco/react-doctor",
+      "pushed_at": "2026-05-12",
+      "title": "millionco/react-doctor",
+      "score": 8
+    },
+    {
+      "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+      "pushed_at": "2026-05-12",
+      "title": "AUTOMATIC1111/stable-diffusion-webui",
+      "score": 7
+    },
+    {
+      "url": "https://github.com/rasbt/LLMs-from-scratch",
+      "pushed_at": "2026-05-12",
+      "title": "rasbt/LLMs-from-scratch",
+      "score": 6
+    },
+    {
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "pushed_at": "2026-05-12",
+      "title": "NousResearch/hermes-agent",
+      "score": 6
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/05/11/1137090/three-things-in-ai-to-watch-according-to-a-nobel-winning-economist/",
+      "pushed_at": "2026-05-12",
+      "title": "Three things in AI to watch, according to a Nobel-winning economist",
+      "score": 7
+    },
+    {
+      "url": "https://36kr.com/p/3805672617959173?f=rss",
+      "pushed_at": "2026-05-12",
+      "title": "36氪首发｜新加坡博士团队创业获种子轮融资，首款产品做“会飞的家庭管家”",
+      "score": 6
+    },
+    {
+      "url": "https://36kr.com/newsflashes/3805700079721985?f=rss",
+      "pushed_at": "2026-05-12",
+      "title": "上海AI实验室联合团队攻克芯片核心材料光刻胶稳定制备难题",
+      "score": 5
+    },
+    {
+      "url": "https://36kr.com/newsflashes/3805626231807745?f=rss",
+      "pushed_at": "2026-05-12",
+      "title": "恒指开盘涨0.34%，快手涨超9%",
+      "score": 5
+    },
+    {
+      "url": "http://www.geekpark.net/news/364004",
+      "pushed_at": "2026-05-12",
+      "title": "OPPO 就母亲节文案发布问责通告；OpenAI 投资 40 亿美元成立新公司加速企业级 AI 落地；Claude 勒索行为源于网络邪恶信息",
+      "score": 6
     }
   ]
 }
