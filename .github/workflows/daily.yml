@@ -13,11 +13,13 @@ jobs:
       contents: write  # 允许提交文件到仓库
 
     steps:
+      # actions/checkout@v4 / setup-python@v5 基于 Node 20，将在 Runner 升级后告警；使用 v6 以适配 Node 24
+      # 参考：https://github.blog/changelog/2025-09-19-deprecation-of-node-20-on-github-actions-runners/
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
 
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
           python-version: "3.11"
 
