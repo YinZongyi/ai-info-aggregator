@@ -4661,6 +4661,216 @@
       "pushed_at": "2026-05-14",
       "title": "脉脉：具身智能岗位暴增 15 倍，平均月薪超 6 万元；马斯克点赞宇树「人形机甲」；阿里吴泳铭：没有一张卡是「空」的",
       "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1te0sif/built_a_selfhosted_background_removal_tool_for/",
+      "pushed_at": "2026-05-15",
+      "title": "Built a self-hosted background removal tool for videos, GIFs and images",
+      "score": 7
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1te0o5y/pixly_al_photo_cleaneran_ai_photo_cleaner_that/",
+      "pushed_at": "2026-05-15",
+      "title": "Pixly Al: Photo Cleaner—an AI photo cleaner that runs fully on-device",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1te0rou/left_my_95_to_build_something_real_2_months_in_27/",
+      "pushed_at": "2026-05-15",
+      "title": "Left my 9-5 to build something real. 2 months in, 27 users, 0 paid. Roast me or help me - I'll take either",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1tdwchz/we_spent_5_weeks_building_the_infra_now_im/",
+      "pushed_at": "2026-05-15",
+      "title": "We spent 5 weeks building the infra. Now I'm running a 30-day public hackathon on top > first build is an AI ad-creative QC tool.",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1te9721/i_failed_at_journaling_6_times_so_i_stopped/",
+      "pushed_at": "2026-05-15",
+      "title": "I failed at journaling 6 times. So I stopped writing and built this instead.",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/Entrepreneur/comments/1te7631/forgotten_side_project_got_700_users/",
+      "pushed_at": "2026-05-15",
+      "title": "Forgotten Side Project Got 700 Users",
+      "score": 9
+    },
+    {
+      "url": "https://www.therundown.ai/p/openai-takes-codex-mobile",
+      "pushed_at": "2026-05-15",
+      "title": "OpenAI takes Codex mobile",
+      "score": 6
+    },
+    {
+      "url": "https://simonwillison.net/2026/May/14/not-so-locked-in/#atom-everything",
+      "pushed_at": "2026-05-15",
+      "title": "Not so locked in any more",
+      "score": 5
+    },
+    {
+      "url": "https://github.com/dah/llm-seedlab",
+      "pushed_at": "2026-05-15",
+      "title": "Show HN: A seed prompt that bootstraps a custom knowledge-base system",
+      "score": 6
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=QlfCfkzkBB4",
+      "pushed_at": "2026-05-15",
+      "title": "Show HN: Open modular tracking stack for VR/MR headsets (eye, SLAM, FBT, BCI) [video]",
+      "score": 6
+    },
+    {
+      "url": "https://world.emergence.ai/",
+      "pushed_at": "2026-05-15",
+      "title": "Show HN: Emergence World: World building as a way to evaluate LLMs",
+      "score": 7
+    },
+    {
+      "url": "https://github.com/PyPlumber/Incorporator/",
+      "pushed_at": "2026-05-15",
+      "title": "Show HN: Incorporator, Turn any API/File into typed Python graph with pipeline",
+      "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tdz5gr/built_a_fully_offline_suitcase_robot_around_a/",
+      "pushed_at": "2026-05-15",
+      "title": "Built a fully offline suitcase robot around a Jetson Orin NX SUPER 16GB. Gemma 4 E4B, ~200ms cached TTFT, 30+ sensors, no WiFi/BT/cellular. He has opinions.",
+      "score": 7
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1te5xpu/orthrusqwen38b_up_to_78tokensforward_on_qwen38b/",
+      "pushed_at": "2026-05-15",
+      "title": "Orthrus-Qwen3-8B : up to 7.8×tokens/forward on Qwen3-8B, frozen backbone, provably identical output distribution",
+      "score": 9
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1te2jko/i_built_a_selfhosted_opensource_mcp_server_that/",
+      "pushed_at": "2026-05-15",
+      "title": "I built a self-hosted open-source MCP server that gives any local LLM real financial data — SEC filings, 13F, insider & congressional trades, short data, FRED",
+      "score": 9
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1te9o18/finding_the_4x_3090_sweet_spot/",
+      "pushed_at": "2026-05-15",
+      "title": "Finding the 4x 3090 Sweet Spot",
+      "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tdtaqt/bytedanceseedcoladlm_hugging_face/",
+      "pushed_at": "2026-05-15",
+      "title": "ByteDance-Seed/Cola-DLM · Hugging Face",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1te6os6/gemma4_26b_moe_running_in_mlx_with_turboquant_and/",
+      "pushed_at": "2026-05-15",
+      "title": "Gemma4 26b MoE running in MLX with turboquant (and custom kernel)",
+      "score": 9
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tdwo1f/github_pwilkinopenmoss_openmoss_pure_c_pipeline/",
+      "pushed_at": "2026-05-15",
+      "title": "GitHub - pwilkin/openmoss: OpenMOSS pure C++ pipeline based on GGML",
+      "score": 7
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tdns1i/used_over_a_million_tokens_in_three_separate/",
+      "pushed_at": "2026-05-15",
+      "title": "Used over a million tokens in three separate sessions to test Qwen 3.6 35b (new Multi-token Prediction version)",
+      "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1te9unl/allenai_has_been_iterating_on_their_molmoact2/",
+      "pushed_at": "2026-05-15",
+      "title": "AllenAI has been iterating on their MolmoAct2 models for robotics",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tdusvx/evaluated_a_rag_chatbot_and_the_most_expensive/",
+      "pushed_at": "2026-05-15",
+      "title": "Evaluated a RAG chatbot and the most expensive model was the worst performer. Notes on what actually moved the needle.",
+      "score": 9
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1te4qn7/i_just_bought_asus_ascent_nvidia_gb10_dgx_and_it/",
+      "pushed_at": "2026-05-15",
+      "title": "I just bought Asus Ascent : Nvidia GB10 (DGX) and It is slower than my Ryzen Ai Max",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tdty58/2_old_rtx_2080_ti_with_22gb_vram_each_qwen36_27b/",
+      "pushed_at": "2026-05-15",
+      "title": "2 old RTX 2080 Ti with 22GB vram each Qwen3.6 27B at 38 token/s with f16 kv cache",
+      "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tde3m1/i_let_a_small_model_train_on_its_own_mistakes_it/",
+      "pushed_at": "2026-05-15",
+      "title": "I Let a Small Model Train on Its Own Mistakes. It Reached 80% on HumanEval and Beat GPT-3.5 on Math",
+      "score": 9
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1te9381/release_nexidion_a_private_knowledge_vault_with/",
+      "pushed_at": "2026-05-15",
+      "title": "[Release] Nexidion – A private knowledge vault with an autonomous local AI background worker.",
+      "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tdpk3f/i_have_even_faster_deepseek_v4_pro_at_home/",
+      "pushed_at": "2026-05-15",
+      "title": "I have (even faster) DeepSeek V4 Pro at home",
+      "score": 8
+    },
+    {
+      "url": "https://github.com/roboflow/supervision",
+      "pushed_at": "2026-05-15",
+      "title": "roboflow/supervision",
+      "score": 7
+    },
+    {
+      "url": "https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization",
+      "pushed_at": "2026-05-15",
+      "title": "NVIDIA-AI-Blueprints/video-search-and-summarization",
+      "score": 7
+    },
+    {
+      "url": "https://github.com/garrytan/gstack",
+      "pushed_at": "2026-05-15",
+      "title": "garrytan/gstack",
+      "score": 9
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/05/15/1137326/chinese-short-dramas-ai/",
+      "pushed_at": "2026-05-15",
+      "title": "How Chinese short dramas became AI content machines",
+      "score": 8
+    },
+    {
+      "url": "https://36kr.com/p/3810091479293449?f=rss",
+      "pushed_at": "2026-05-15",
+      "title": "长安计划入股千里科技，千里智驾与奥迪推进合作｜36氪独家",
+      "score": 5
+    },
+    {
+      "url": "https://36kr.com/p/3809919654403587?f=rss",
+      "pushed_at": "2026-05-15",
+      "title": "36氪首发 | 前大疆核心成员做消费级CNC，获美团、昆仑资本、奇绩创坛投资近亿元",
+      "score": 7
+    },
+    {
+      "url": "https://www.ifanr.com/1665986?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "pushed_at": "2026-05-15",
+      "title": "笑死，莫奈真迹被全网痛批是 AI「废画」",
+      "score": 5
+    },
+    {
+      "url": "https://www.ifanr.com/1665932?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "pushed_at": "2026-05-15",
+      "title": "好消息：微信有 AI 了！坏消息：是元宝…",
+      "score": 7
     }
   ]
 }
