@@ -5033,6 +5033,174 @@
       "pushed_at": "2026-05-16",
       "title": "36氪首发｜前苹果工程师跨界骨传导耳机，独创技术路线，打破头部企业专利垄断",
       "score": 7
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1tftey0/small_update_since_previous_post_my_random_chat/",
+      "pushed_at": "2026-05-17",
+      "title": "Small update since previous post — my random chat project just crossed 350K Google Search clicks.",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1tg1tlo/im_18_and_building_a_social_app_because_i_couldnt/",
+      "pushed_at": "2026-05-17",
+      "title": "i'm 18 and building a social app because I couldn't answer a simple question about my own screen time",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1tg1kq3/my_friend_and_i_have_been_building_our_take_on_a/",
+      "pushed_at": "2026-05-17",
+      "title": "My friend and I have been building our take on a AI \"book you're the hero of\" type of game",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1tfv51z/vex_i_built_an_opensource_terminal_ai_video/",
+      "pushed_at": "2026-05-17",
+      "title": "[Vex] - I built an open-source terminal AI video editor that edits real footage with FFmpeg, Whisper, and agent tool calls",
+      "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/Entrepreneur/comments/1tfn2vg/who_actually_needs_data_analysis_aside_from_tech/",
+      "pushed_at": "2026-05-17",
+      "title": "Who actually needs data analysis aside from tech?",
+      "score": 6
+    },
+    {
+      "url": "https://www.lennysnewsletter.com/p/why-were-at-the-beginning-of-the",
+      "pushed_at": "2026-05-17",
+      "title": "Why we’re at the beginning of the AI hardware boom | Caitlin Kalinowski (ex–OpenAI, Meta, Apple)",
+      "score": 5
+    },
+    {
+      "url": "https://github.com/MinishLab/semble",
+      "pushed_at": "2026-05-17",
+      "title": "Show HN: Semble – Code search for agents that uses 98% fewer tokens than grep",
+      "score": 9
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tfzsd6/m5_vs_dgx_spark_vs_strix_halo_vs_rtx_6000/",
+      "pushed_at": "2026-05-17",
+      "title": "M5 vs DGX Spark vs Strix Halo vs RTX 6000",
+      "score": 7
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tfmocw/85_gpuhours_comparing_5_abliteration_methods_on/",
+      "pushed_at": "2026-05-17",
+      "title": "85 GPU-hours comparing 5 abliteration methods on Qwen3.6-27B: benchmarks, safety, weight forensics - Abliterlitics",
+      "score": 9
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tftaaa/the_power_of_structured_workflows_and_small_local/",
+      "pushed_at": "2026-05-17",
+      "title": "The power of structured workflows and small local models",
+      "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tflngz/dual_gpu_llamacpp_speedup/",
+      "pushed_at": "2026-05-17",
+      "title": "Dual GPU llama.cpp speedup",
+      "score": 9
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tfq683/mtp_for_qwen3635ba3b_on_6gb_vram_laptop_not_worth/",
+      "pushed_at": "2026-05-17",
+      "title": "MTP for Qwen3.6-35B-A3B on 6GB VRAM laptop: not worth it",
+      "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tfin40/jackrongqwopus359bcodergguf_hugging_face/",
+      "pushed_at": "2026-05-17",
+      "title": "Jackrong/Qwopus3.5-9B-Coder-GGUF · Hugging Face",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tg25fz/mtp_experiences_on_7900xtx/",
+      "pushed_at": "2026-05-17",
+      "title": "MTP experiences on 7900xtx?",
+      "score": 7
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tfxah9/moving_from_composer_2kimi_26_to_qwen3635ba3b/",
+      "pushed_at": "2026-05-17",
+      "title": "Moving from Composer 2/Kimi 2.6 to Qwen3.6:35b-a3b",
+      "score": 7
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tfqfvt/developers_who_use_local_ai_q4_0_vs_q8_0_kv_quant/",
+      "pushed_at": "2026-05-17",
+      "title": "Developers who use local AI - Q4_0 vs Q8_0 KV quant?",
+      "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tg0me5/grafting_vision_onto_text_models_for_fun_and/",
+      "pushed_at": "2026-05-17",
+      "title": "Grafting vision onto text models for fun and profit.",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tg37t6/pushing_the_limit_minimax_m27_q8_0_128k_on_2x3090/",
+      "pushed_at": "2026-05-17",
+      "title": "Pushing the limit: minimax m2.7 q8_0 128k on 2x3090, 256GB DDR4",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tfsmov/mirothinker17_an_openweight_deep_research_agent/",
+      "pushed_at": "2026-05-17",
+      "title": "MiroThinker-1.7, an open-weight deep research agent (Qwen3 MoE base) — mini is 30B/3B active, curious what tok/s people get on consumer hardware",
+      "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tfpwc6/recent_developments_in_llm_architectures_kv/",
+      "pushed_at": "2026-05-17",
+      "title": "Recent Developments in LLM Architectures: KV Sharing, mHC, and Compressed Attention",
+      "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tfx7ka/i_cant_get_qwen36_27b_to_outperform_qwencodernext/",
+      "pushed_at": "2026-05-17",
+      "title": "I can't get Qwen3.6 27B to outperform Qwen-Coder-Next and I'm not sure why",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tfhl0q/deepseek_v4s_1m_context_window_the_breaking_point/",
+      "pushed_at": "2026-05-17",
+      "title": "Deepseek V4's 1M context window: the breaking point",
+      "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tg3kbz/while_waiting_for_fara15_for_my_coding_harness/",
+      "pushed_at": "2026-05-17",
+      "title": "While waiting for Fara-1.5 for my coding harness",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tfilwx/llamacpp_mtp_with_qwen36_27b_on_headless_rtx_3090/",
+      "pushed_at": "2026-05-17",
+      "title": "Llama.cpp MTP with Qwen3.6 27B on Headless RTX 3090",
+      "score": 9
+    },
+    {
+      "url": "https://github.com/colbymchenry/codegraph",
+      "pushed_at": "2026-05-17",
+      "title": "colbymchenry/codegraph",
+      "score": 9
+    },
+    {
+      "url": "https://36kr.com/p/3812925591887368?f=rss",
+      "pushed_at": "2026-05-17",
+      "title": "3个人带100个AI程序员，一个月烧掉130万美元！OpenAI：钱我出",
+      "score": 8
+    },
+    {
+      "url": "https://36kr.com/p/3812800346742274?f=rss",
+      "pushed_at": "2026-05-17",
+      "title": "6.4k Stars！用Claude Code写论文的全套流水线，有人打包开源了",
+      "score": 7
+    },
+    {
+      "url": "https://36kr.com/p/3812788568907520?f=rss",
+      "pushed_at": "2026-05-17",
+      "title": "36氪首发 | 宠物健康大模型公司连融两轮，软硬一体化布局，已服务超200家宠物医院",
+      "score": 8
     }
   ]
 }
