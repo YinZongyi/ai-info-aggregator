@@ -5201,6 +5201,222 @@
       "pushed_at": "2026-05-17",
       "title": "36氪首发 | 宠物健康大模型公司连融两轮，软硬一体化布局，已服务超200家宠物医院",
       "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1tglk9l/got_my_first_paying_users_honestly_did_not_expect/",
+      "pushed_at": "2026-05-18",
+      "title": "Got my first paying users. Honestly did not expect it to feel this weird.",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1tgu06x/why_i_stopped_using_ai_builders_boltlovale_and/",
+      "pushed_at": "2026-05-18",
+      "title": "Why i stopped using AI builders (bolt/lovale) and went back to cursor",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1th15ct/made_a_tiny_windows_dictation_app_for_me_and_a/",
+      "pushed_at": "2026-05-18",
+      "title": "Made a tiny Windows dictation app for me and a friend. Decided to open it up to 100 more people.",
+      "score": 6
+    },
+    {
+      "url": "https://www.latent.space/p/the-fourth-law",
+      "pushed_at": "2026-05-18",
+      "title": "The Next War Is Already Here. The West Isn't Ready. — Yaroslav Azhnyuk, The Fourth Law & Guest Host Noah Smith, Noahpinion",
+      "score": 6
+    },
+    {
+      "url": "https://www.lennysnewsletter.com/p/how-i-ai-html-is-the-new-markdown",
+      "pushed_at": "2026-05-18",
+      "title": "🎙️ How I AI: HTML is the new Markdown: How Anthropic engineers are building with Claude Code",
+      "score": 5
+    },
+    {
+      "url": "https://www.lennysnewsletter.com/p/html-is-the-new-markdown-how-anthropic",
+      "pushed_at": "2026-05-18",
+      "title": "HTML is the new Markdown: How Anthropic engineers are building with Claude Code | Thariq Shihipar",
+      "score": 7
+    },
+    {
+      "url": "https://github.com/tracecast/open_data_apps",
+      "pushed_at": "2026-05-18",
+      "title": "Show HN: Tracecast – open-source generative data apps built on top of Marimo",
+      "score": 7
+    },
+    {
+      "url": "https://github.com/vaddisrinivas/enhanced-copy",
+      "pushed_at": "2026-05-18",
+      "title": "Show HN: Enhanced Copy – copy buttons that include the site's AI prompt",
+      "score": 7
+    },
+    {
+      "url": "https://huggingface.co/NemoStation/Marlin-2B",
+      "pushed_at": "2026-05-18",
+      "title": "Show HN: Marlin-2B: a tiny VLM to extract structured information from videos",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tgm0k9/i_tested_42_llms_on_their_willingness_to_build/",
+      "pushed_at": "2026-05-18",
+      "title": "I tested 42 LLMs on their willingness to build the apocalypse. The \"safest\" closed-source models are lying to you.",
+      "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tgecrq/i_built_a_coding_agent_that_gets_87_on_benchmarks/",
+      "pushed_at": "2026-05-18",
+      "title": "I built a coding agent that gets 87% on benchmarks with a 4B parameter model, here's how",
+      "score": 9
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tgis7s/qwen_36_27b_on_24gb_vram_setup_backend/",
+      "pushed_at": "2026-05-18",
+      "title": "Qwen 3.6 27B on 24GB VRAM setup: backend comparisons, quant choice and settings (llama.cpp, ik_llama.cpp, BeeLlama, vllm)",
+      "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tgxau6/llamacpp_mtp_support_landed_qwen36_27b_at_244_on/",
+      "pushed_at": "2026-05-18",
+      "title": "llama.cpp MTP support landed - Qwen3.6 27B at 2.44× on a Strix Halo, 2.17× on a RTX 3090 rig",
+      "score": 9
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tgk9y6/quantizing_mtp_kv_cache_free_lunch/",
+      "pushed_at": "2026-05-18",
+      "title": "Quantizing MTP KV Cache = free lunch?",
+      "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tgobhj/psa_if_you_havent_updated_llamacpp_for_a_couple/",
+      "pushed_at": "2026-05-18",
+      "title": "PSA: If you haven’t updated Llama.cpp for a couple of days and find MTP to not be performing well, update llamacpp.",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tgnxnm/benchmarked_kokoro_82m_vs_supertonic_3_tts_on_cpu/",
+      "pushed_at": "2026-05-18",
+      "title": "Benchmarked Kokoro 82M vs Supertonic 3 TTS on CPU",
+      "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tgjwdf/new_bitnet_models/",
+      "pushed_at": "2026-05-18",
+      "title": "NEW BITNET MODELS!",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tgqpa8/qwen_35b_a3b_surprises_me/",
+      "pushed_at": "2026-05-18",
+      "title": "Qwen 35b a3b surprises me",
+      "score": 7
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1th0z6k/lemonade_v1051_an_mtp_rocm_713_quick_start_for/",
+      "pushed_at": "2026-05-18",
+      "title": "Lemonade v10.5.1: an MTP + ROCm 7.13 quick start for Strix Halo",
+      "score": 7
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tgqenh/hf_downloader_utility_tampermonkey/",
+      "pushed_at": "2026-05-18",
+      "title": "HF downloader utility tampermonkey",
+      "score": 7
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tgrk75/configuration_qwen3635ba3b_12gb_vram/",
+      "pushed_at": "2026-05-18",
+      "title": "Configuration Qwen3.6-35b-a3b (12Gb VRAM)",
+      "score": 6
+    },
+    {
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "pushed_at": "2026-05-18",
+      "title": "HKUDS/CLI-Anything",
+      "score": 7
+    },
+    {
+      "url": "https://github.com/BigBodyCobain/Shadowbroker",
+      "pushed_at": "2026-05-18",
+      "title": "BigBodyCobain/Shadowbroker",
+      "score": 5
+    },
+    {
+      "url": "https://github.com/tech-leads-club/agent-skills",
+      "pushed_at": "2026-05-18",
+      "title": "tech-leads-club/agent-skills",
+      "score": 8
+    },
+    {
+      "url": "https://github.com/NirDiamant/agents-towards-production",
+      "pushed_at": "2026-05-18",
+      "title": "NirDiamant/agents-towards-production",
+      "score": 9
+    },
+    {
+      "url": "https://github.com/dograh-hq/dograh",
+      "pushed_at": "2026-05-18",
+      "title": "dograh-hq/dograh",
+      "score": 8
+    },
+    {
+      "url": "https://github.com/Light-Heart-Labs/DreamServer",
+      "pushed_at": "2026-05-18",
+      "title": "Light-Heart-Labs/DreamServer",
+      "score": 6
+    },
+    {
+      "url": "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/",
+      "pushed_at": "2026-05-18",
+      "title": "Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare",
+      "score": 5
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/05/18/1137412/inside-anduril-and-metas-quest-to-make-smart-glasses-for-warfare/",
+      "pushed_at": "2026-05-18",
+      "title": "Inside Anduril and Meta’s quest to make smart glasses for warfare",
+      "score": 5
+    },
+    {
+      "url": "https://36kr.com/p/3814695536336387?f=rss",
+      "pushed_at": "2026-05-18",
+      "title": "氪星晚报 ｜百度：一季度营收321亿元，AI业务收入136亿元；马斯克预计今年美国将广泛使用自动驾驶汽车；巨力索具旗下十余家企业已注销",
+      "score": 6
+    },
+    {
+      "url": "https://36kr.com/p/3810598875307780?f=rss",
+      "pushed_at": "2026-05-18",
+      "title": "番茄小说正推动 AI 动漫上院线，开放头部IP改编权限｜36氪独家",
+      "score": 5
+    },
+    {
+      "url": "https://36kr.com/p/3814337101111044?f=rss",
+      "pushed_at": "2026-05-18",
+      "title": "对话万成云商：发文章≠GEO优化，大模型不是喂什么就推什么",
+      "score": 6
+    },
+    {
+      "url": "https://36kr.com/newsflashes/3814800262373120?f=rss",
+      "pushed_at": "2026-05-18",
+      "title": "670亿美元创下“史上最大电力收购案”，新纪元能源吞并道明尼能源剑指AI算力电网霸主",
+      "score": 8
+    },
+    {
+      "url": "https://www.ifanr.com/1666225?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "pushed_at": "2026-05-18",
+      "title": "MacBook Neo 杀疯了，英特尔派出「野猫」接招？",
+      "score": 6
+    },
+    {
+      "url": "https://www.ifanr.com/1666146?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "pushed_at": "2026-05-18",
+      "title": "一个月烧掉 930 万元 Token 的人，也没烧出个答案",
+      "score": 5
+    },
+    {
+      "url": "https://www.ifanr.com/1665732?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "pushed_at": "2026-05-18",
+      "title": "2026 年，手机终于会自己拍照了｜AI 器物志",
+      "score": 7
     }
   ]
 }
