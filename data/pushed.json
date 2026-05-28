@@ -7223,6 +7223,246 @@
       "pushed_at": "2026-05-27",
       "title": "红杉、华兴投了「AI产品的大众点评」，我们与它的02年创始人聊了聊",
       "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1tq2438/my_app_is_1_year_old_today_and_i_wanted_to_share/",
+      "pushed_at": "2026-05-28",
+      "title": "My app is 1 year old today and I wanted to share some insights",
+      "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1tq5koh/i_kept_saving_useful_x_posts_tweets_and_never/",
+      "pushed_at": "2026-05-28",
+      "title": "I kept saving useful X posts / Tweets and never reading them again, so I built an iPhone widget to resurface them",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1tpztj1/if_pdf_is_your_thing_this_engine_works_like_a/",
+      "pushed_at": "2026-05-28",
+      "title": "if pdf is your thing , this engine works like a charm , 100mb pdf opens and zoom in with 60+fps in milliseconds",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1tqc4a6/from_an_idea_in_hospital_bed_to_first_payment_in/",
+      "pushed_at": "2026-05-28",
+      "title": "From an idea in hospital bed to first payment in 34! You can just ship stuff!",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1tq86th/your_demo_should_show_the_before_state_first/",
+      "pushed_at": "2026-05-28",
+      "title": "your demo should show the before state first",
+      "score": 5
+    },
+    {
+      "url": "https://www.bensbites.com/p/i-signed-up-for-another-saas",
+      "pushed_at": "2026-05-28",
+      "title": "I signed up for another SaaS",
+      "score": 5
+    },
+    {
+      "url": "https://www.latent.space/p/cognition",
+      "pushed_at": "2026-05-28",
+      "title": "The Age of Async Agents — Cognition's Walden Yan & OpenInspect's Cole Murray",
+      "score": 5
+    },
+    {
+      "url": "https://www.latent.space/p/ainews-cognition-raises-1b-in-26b",
+      "pushed_at": "2026-05-28",
+      "title": "[AINews] Cognition raises $1B in $26B Series D",
+      "score": 8
+    },
+    {
+      "url": "https://www.lennysnewsletter.com/p/claude-opus-48-is-here-is-it-as-good",
+      "pushed_at": "2026-05-28",
+      "title": "Claude Opus 4.8 is here. Is it as good as they say?",
+      "score": 8
+    },
+    {
+      "url": "https://simonwillison.net/2026/May/27/sqlite-agents/#atom-everything",
+      "pushed_at": "2026-05-28",
+      "title": "sqlite AGENTS.md",
+      "score": 8
+    },
+    {
+      "url": "https://github.com/wartzar-bee/tokenscope",
+      "pushed_at": "2026-05-28",
+      "title": "Show HN: Tokenscope – see what your Claude Code session cost",
+      "score": 6
+    },
+    {
+      "url": "https://velork.com",
+      "pushed_at": "2026-05-28",
+      "title": "Show HN: AI IDE that converts websites and designs into code",
+      "score": 5
+    },
+    {
+      "url": "https://github.com/awebai/aweb-team-coord-worktrees",
+      "pushed_at": "2026-05-28",
+      "title": "Show HN: Bootstrap a team of coding agents from a template, OSS",
+      "score": 5
+    },
+    {
+      "url": "https://github.com/fujibee/agmsg",
+      "pushed_at": "2026-05-28",
+      "title": "Show HN: Agmsg – let Claude Code and Codex message each other (bash and SQLite)",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tq35a0/zai_replaced_the_network_architecture_running/",
+      "pushed_at": "2026-05-28",
+      "title": "Zai replaced the network architecture running GLM-5.1 inference and the gains are pretty wild",
+      "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tq8a40/liquidailfm258ba1b_hugging_face/",
+      "pushed_at": "2026-05-28",
+      "title": "LiquidAI/LFM2.5-8B-A1B · Hugging Face",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tq2ce9/hf_models_page_now_has_a_base_only_toggle_to/",
+      "pushed_at": "2026-05-28",
+      "title": "HF models page now has a \"Base only\" toggle to filter out finetunes/quants/etc",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tq7yeq/qwen36_35b_txt_vs_markdown_vs_html_vs_htmlcss/",
+      "pushed_at": "2026-05-28",
+      "title": "Qwen3.6 35B - TXT vs Markdown vs HTML vs HTML+CSS",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tpp2th/vulnerability_found_in_framework_used_by_vllm/",
+      "pushed_at": "2026-05-28",
+      "title": "Vulnerability found in framework used by VLLM, many MCP servers, and other LLM tools",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tq1jpt/paddlepaddlepaddleocrvl16/",
+      "pushed_at": "2026-05-28",
+      "title": "PaddlePaddle/PaddleOCR-VL-1.6",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tqas55/granite_41_architecture_changes/",
+      "pushed_at": "2026-05-28",
+      "title": "Granite 4.1 Architecture Changes?",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tpww8m/qwenqwenimagebench_hugging_face/",
+      "pushed_at": "2026-05-28",
+      "title": "Qwen/Qwen-Image-Bench · Hugging Face",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tq633w/vllm_gives_5x_speed_of_llama_but_quants_not/",
+      "pushed_at": "2026-05-28",
+      "title": "VLLM gives 5x speed of llama but quants not available (unsloth/gguf). What to do?",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tq62j6/i_implemented_laguna_xs2_as_a_model_in_llamacpp/",
+      "pushed_at": "2026-05-28",
+      "title": "I implemented Laguna (XS.2) as a model in Llama.cpp",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tpyqng/krasis_update_qwen3635ba3b_q4_at_reading_speed_1x/",
+      "pushed_at": "2026-05-28",
+      "title": "Krasis update: Qwen3.6-35B-A3B (Q4) at reading speed, 1x 8GB 3070 Mobile laptop (32GB RAM)",
+      "score": 9
+    },
+    {
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "pushed_at": "2026-05-28",
+      "title": "harry0703/MoneyPrinterTurbo",
+      "score": 8
+    },
+    {
+      "url": "https://github.com/affaan-m/ECC",
+      "pushed_at": "2026-05-28",
+      "title": "affaan-m/ECC",
+      "score": 6
+    },
+    {
+      "url": "https://github.com/p-e-w/heretic",
+      "pushed_at": "2026-05-28",
+      "title": "p-e-w/heretic",
+      "score": 9
+    },
+    {
+      "url": "https://github.com/Chachamaru127/claude-code-harness",
+      "pushed_at": "2026-05-28",
+      "title": "Chachamaru127/claude-code-harness",
+      "score": 8
+    },
+    {
+      "url": "https://github.com/iii-hq/iii",
+      "pushed_at": "2026-05-28",
+      "title": "iii-hq/iii",
+      "score": 6
+    },
+    {
+      "url": "https://github.com/moeru-ai/airi",
+      "pushed_at": "2026-05-28",
+      "title": "moeru-ai/airi",
+      "score": 5
+    },
+    {
+      "url": "https://techcrunch.com/2026/05/28/anthropic-raises-65-billion-nears-1t-valuation-ahead-of-ipo/",
+      "pushed_at": "2026-05-28",
+      "title": "Anthropic raises $65 billion, nears $1T valuation ahead of IPO",
+      "score": 7
+    },
+    {
+      "url": "https://techcrunch.com/2026/05/28/how-long-is-anthropics-lease-with-spacex-opinions-vary/",
+      "pushed_at": "2026-05-28",
+      "title": "How long is Anthropic’s lease with SpaceX? Opinions vary",
+      "score": 5
+    },
+    {
+      "url": "https://trends.vc/personal-ai-agents-skill-marketplaces-compliance-wedge-open-weights/",
+      "pushed_at": "2026-05-28",
+      "title": "Personal AI Agents: Skill Marketplaces, Compliance Wedge, Open Weights",
+      "score": 8
+    },
+    {
+      "url": "https://36kr.com/p/3828915666441090?f=rss",
+      "pushed_at": "2026-05-28",
+      "title": "快手基本面韧性凸显，可灵AI成第二增长曲线",
+      "score": 8
+    },
+    {
+      "url": "https://36kr.com/p/3820602297208966?f=rss",
+      "pushed_at": "2026-05-28",
+      "title": "智象未来CEO梅涛：多模态模型Token的毛利率，远高于语言模型",
+      "score": 6
+    },
+    {
+      "url": "https://36kr.com/p/3827585618154118?f=rss",
+      "pushed_at": "2026-05-28",
+      "title": "AI内容共创平台「FunloomAI」再获数千万Pre-A轮融资，让创作回归创意本身 | 36氪首发",
+      "score": 8
+    },
+    {
+      "url": "https://www.ifanr.com/1667312?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "pushed_at": "2026-05-28",
+      "title": "大公司的 AI 账本，没有一笔算得过来",
+      "score": 7
+    },
+    {
+      "url": "https://www.ifanr.com/1667242?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "pushed_at": "2026-05-28",
+      "title": "极狐问道 V9 发布，卓驭从 SUV、轿车到 MPV 完成全品类舱驾一体量产验证",
+      "score": 5
+    },
+    {
+      "url": "https://www.ifanr.com/1667180?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "pushed_at": "2026-05-28",
+      "title": "国产AI编程冲上全球第二！实测五大模型，谁才是Vibe Coding神器",
+      "score": 8
     }
   ]
 }
