@@ -7679,6 +7679,138 @@
       "pushed_at": "2026-05-29",
       "title": "“易启未来”完成数千万元A轮融资",
       "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1ts483v/built_a_linkedin_alternative_this_week_500_users/",
+      "pushed_at": "2026-05-30",
+      "title": "Built a LinkedIn alternative this week. 500 users in 5 days.",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1ts93bn/website_gets_about_1000_visitors_daily_but_i_am/",
+      "pushed_at": "2026-05-30",
+      "title": "Website gets about 1000 visitors daily, but I am struggling to monetize",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1tsczgq/solo_side_project_update_228k_clicks_118m/",
+      "pushed_at": "2026-05-30",
+      "title": "Solo side project update: 22.8k clicks, 1.18M impressions, and a lot of questions",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1tsccxa/tried_to_scale_to_10k_emails_day_and_almost/",
+      "pushed_at": "2026-05-30",
+      "title": "tried to scale to 10k emails/ day and almost killed my agency",
+      "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1ts6moh/ive_been_qatesting_indie_and_aibuilt_sites_this/",
+      "pushed_at": "2026-05-30",
+      "title": "I've been QA-testing indie and AI-built sites this week — the same handful of things are broken on almost all of them",
+      "score": 6
+    },
+    {
+      "url": "https://simonwillison.net/2026/May/30/pyodide-asgi-browser/#atom-everything",
+      "pushed_at": "2026-05-30",
+      "title": "Running Python ASGI apps in the browser via Pyodide + a service worker",
+      "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ts6j6j/nvidiaqwen3635ba3bnvfp4_hugging_face/",
+      "pushed_at": "2026-05-30",
+      "title": "nvidia/Qwen3.6-35B-A3B-NVFP4 · Hugging Face",
+      "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tryp2q/125_toks_for_qwen36_q4xl_on_2x_4060ti_is_insane/",
+      "pushed_at": "2026-05-30",
+      "title": "125 tok/s for Qwen3.6 q4xl on 2x 4060ti is insane perf/dollar",
+      "score": 9
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1trvo30/gryphepantheonreasoning27b_hugging_face/",
+      "pushed_at": "2026-05-30",
+      "title": "Gryphe/Pantheon-Reasoning-27B · Hugging Face",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1trve9e/open_source_turning_vocal_imitations_into_sound/",
+      "pushed_at": "2026-05-30",
+      "title": "Open source : Turning vocal imitations into sound effects. (New UX for sound generation)",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1trms2k/all_dgx_spark_clones_side_by_side_in_one_image/",
+      "pushed_at": "2026-05-30",
+      "title": "All DGX Spark clones side by side in one image",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1trw5ym/fulloch_v2_100_local_voice_assistant_for_home/",
+      "pushed_at": "2026-05-30",
+      "title": "Fulloch V2: 100% Local Voice Assistant for Home Assistant & Obsidian (Runs on 16GB VRAM)",
+      "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ts79rg/parallax_parameterized_local_linear_attention_for/",
+      "pushed_at": "2026-05-30",
+      "title": "Parallax: Parameterized Local Linear Attention for Language Modeling",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1trq8kq/this_new_moss_tts_15_is_damn_good_with_voice/",
+      "pushed_at": "2026-05-30",
+      "title": "this new Moss tts 1.5 is damn good with voice cloning",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ts072f/anybody_got_llamaswap_working_answering/",
+      "pushed_at": "2026-05-30",
+      "title": "anybody got llama-swap working answering concurrent requests for a single model?",
+      "score": 7
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tryukc/qwen_36_coding_choice27b_vs_35b_quants/",
+      "pushed_at": "2026-05-30",
+      "title": "Qwen 3.6 coding choice–27B vs 35B quants",
+      "score": 5
+    },
+    {
+      "url": "https://github.com/anthropics/claude-code",
+      "pushed_at": "2026-05-30",
+      "title": "anthropics/claude-code",
+      "score": 7
+    },
+    {
+      "url": "https://github.com/run-llama/liteparse",
+      "pushed_at": "2026-05-30",
+      "title": "run-llama/liteparse",
+      "score": 9
+    },
+    {
+      "url": "https://github.com/galilai-group/stable-worldmodel",
+      "pushed_at": "2026-05-30",
+      "title": "galilai-group/stable-worldmodel",
+      "score": 6
+    },
+    {
+      "url": "https://github.com/Biohub/esm",
+      "pushed_at": "2026-05-30",
+      "title": "Biohub/esm",
+      "score": 9
+    },
+    {
+      "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+      "pushed_at": "2026-05-30",
+      "title": "Crosstalk-Solutions/project-nomad",
+      "score": 6
+    },
+    {
+      "url": "https://36kr.com/p/3831135917107075?f=rss",
+      "pushed_at": "2026-05-30",
+      "title": "36氪首发 | 服务富士康，半年营收超两千万的机器人解决方案商完成天使轮融资",
+      "score": 6
     }
   ]
 }
