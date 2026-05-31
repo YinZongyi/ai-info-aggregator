@@ -7811,6 +7811,132 @@
       "pushed_at": "2026-05-30",
       "title": "36氪首发 | 服务富士康，半年营收超两千万的机器人解决方案商完成天使轮融资",
       "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1tsujcq/i_built_an_tool_to_apply_to_jobs_for_me_while_i/",
+      "pushed_at": "2026-05-31",
+      "title": "I built an tool to apply to jobs for me while I sleep (lol) Went from 1 interview a month to 19 in a week.",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1tt4ldu/i_got_tired_of_saying_i_dont_know_to_my_cousins/",
+      "pushed_at": "2026-05-31",
+      "title": "I got tired of saying \"I don't know\" to my cousin's questions, so I built something that turns them into comics",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1tt5iow/open_source_html_to_pdfua3_converter/",
+      "pushed_at": "2026-05-31",
+      "title": "Open source HTML to PDF/UA-3 converter",
+      "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1tt0y4l/i_built_daytrail_because_time_trackers_miss_the/",
+      "pushed_at": "2026-05-31",
+      "title": "I built DayTrail because time trackers miss the real story",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1tta10e/i_built_lyriq_a_songwriting_workspace_for_artists/",
+      "pushed_at": "2026-05-31",
+      "title": "I built LyriQ, a songwriting workspace for artists who get stuck on lyrics",
+      "score": 5
+    },
+    {
+      "url": "https://github.com/viggy28/streambed",
+      "pushed_at": "2026-05-31",
+      "title": "Show HN: Streambed – Stream Postgres to Iceberg on S3, Supports Postgres Wire",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tss9nq/stepfun_37_flash_is_very_good/",
+      "pushed_at": "2026-05-31",
+      "title": "Stepfun 3.7 Flash is very good",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tt6oja/i_ported_nvidia_parakeet_speechtotext_to_ggml/",
+      "pushed_at": "2026-05-31",
+      "title": "I ported NVIDIA Parakeet (speech-to-text) to ggml: same output as NeMo, faster, GGUF-quantized, no Python",
+      "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tsvs3j/13_abliterated_gemma_4_e2b_variants_44_gpu_hours/",
+      "pushed_at": "2026-05-31",
+      "title": "13 abliterated Gemma 4 E2B variants, 44 GPU hours, Benchmark and Comparison - Abliterlitics",
+      "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tt4pag/llama_studio_v020/",
+      "pushed_at": "2026-05-31",
+      "title": "Llama Studio v0.2.0",
+      "score": 7
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tsxul2/added_an_old_2070_super_to_my_rig_and_i_cant_go/",
+      "pushed_at": "2026-05-31",
+      "title": "Added an old 2070 Super to my rig and I can't go back...worse, now I need more",
+      "score": 7
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tszlsa/qwen3635b_vs_gemma426b_on_7900_xtx/",
+      "pushed_at": "2026-05-31",
+      "title": "Qwen3.6-35B vs Gemma4-26B on 7900 XTX",
+      "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tt50bu/whats_actually_happening_when_a_model_spills_out/",
+      "pushed_at": "2026-05-31",
+      "title": "Whats actually happening when a model spills out of VRAM into system memory?",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tsifgs/dell_confirms_xps_laptop_with_nvidia_n1x_at/",
+      "pushed_at": "2026-05-31",
+      "title": "Dell confirms XPS laptop with NVIDIA N1X at Computex ( basically a DGX Spark GB10 for consumers with Windows )",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tshmxa/my_home_data_center/",
+      "pushed_at": "2026-05-31",
+      "title": "My home data center",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tss1ca/flash_attention_for_llamacpp_on_rdna3_47_less_kv/",
+      "pushed_at": "2026-05-31",
+      "title": "Flash Attention for llama.cpp on RDNA3: 47% less KV VRAM than Vulkan f16 K, KLD almost losselss on F16 K / q4_0 V. Part 1.",
+      "score": 9
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tsrpn4/think_toggle_button_for_llamacp_web_chat_for/",
+      "pushed_at": "2026-05-31",
+      "title": "<Think> toggle button for llama.cp web chat for QWEN3.6",
+      "score": 7
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tslv3b/mudlerqwen3635ba3bclaude47opusreasoningdistilledap/",
+      "pushed_at": "2026-05-31",
+      "title": "mudler/Qwen3.6-35B-A3B-Claude-4.7-Opus-Reasoning-Distilled-APEX-MTP-GGUF just released !",
+      "score": 6
+    },
+    {
+      "url": "https://github.com/FareedKhan-dev/train-llm-from-scratch",
+      "pushed_at": "2026-05-31",
+      "title": "FareedKhan-dev/train-llm-from-scratch",
+      "score": 8
+    },
+    {
+      "url": "https://github.com/dreammis/social-auto-upload",
+      "pushed_at": "2026-05-31",
+      "title": "dreammis/social-auto-upload",
+      "score": 8
+    },
+    {
+      "url": "https://36kr.com/newsflashes/3832585694193541?f=rss",
+      "pushed_at": "2026-05-31",
+      "title": "软银承诺斥资750亿欧元在法国建设人工智能设施",
+      "score": 6
     }
   ]
 }
