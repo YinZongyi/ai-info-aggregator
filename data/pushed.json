@@ -8087,6 +8087,216 @@
       "pushed_at": "2026-06-01",
       "title": "任务成本仅为Claude Opus 4.6 1/9，阶跃刷新Flash模型效率",
       "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1tuz231/not_an_exciting_site_but_real_local_business/",
+      "pushed_at": "2026-06-02",
+      "title": "Not an exciting site, but real local business owners say it actually solves a stressful problem for them",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1tut0mo/my_privacyfirst_ios_app_hit_1_productivity_in_2/",
+      "pushed_at": "2026-06-02",
+      "title": "My privacy-first iOS app hit #1 Productivity in 2 countries (ranking in 14 App Stores) — here's what actually moved the needle",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1tv537y/built_an_ai_chatbot_for_shopify_stores_that/",
+      "pushed_at": "2026-06-02",
+      "title": "Built an AI chatbot for Shopify stores that actually knows the products in the catalog (live on the App Store)",
+      "score": 7
+    },
+    {
+      "url": "https://www.reddit.com/r/Entrepreneur/comments/1tu9qob/stripe_mcp_for_churn_analysis/",
+      "pushed_at": "2026-06-02",
+      "title": "Stripe MCP for Churn Analysis",
+      "score": 7
+    },
+    {
+      "url": "https://www.reddit.com/r/Entrepreneur/comments/1tungox/hollywood_just_proved_the_ai_video_business_model/",
+      "pushed_at": "2026-06-02",
+      "title": "Hollywood just proved the ai video business model by accident and this is what small operators should take from it.",
+      "score": 6
+    },
+    {
+      "url": "https://www.therundown.ai/p/nvidia-corners-the-ai-agent-stack",
+      "pushed_at": "2026-06-02",
+      "title": "Nvidia corners the AI agent stack",
+      "score": 5
+    },
+    {
+      "url": "https://www.latent.space/p/github",
+      "pushed_at": "2026-06-02",
+      "title": "GitHub's plan for Agents — Kyle Daigle, GitHub",
+      "score": 5
+    },
+    {
+      "url": "https://simonwillison.net/2026/Jun/2/microsofts-new-models/#atom-everything",
+      "pushed_at": "2026-06-02",
+      "title": "Microsoft's new MAI models",
+      "score": 5
+    },
+    {
+      "url": "https://simonwillison.net/2026/Jun/2/pasted-file-editor/#atom-everything",
+      "pushed_at": "2026-06-02",
+      "title": "Pasted File Editor",
+      "score": 5
+    },
+    {
+      "url": "https://scholar-sidekick.com",
+      "pushed_at": "2026-06-02",
+      "title": "Show HN: Scholar Sidekick – citation verifier for the \"real DOI, wrong paper\"",
+      "score": 8
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=48376362",
+      "pushed_at": "2026-06-02",
+      "title": "Show HN: Odeva Booking – A unified PMS for holiday parks and campgrounds",
+      "score": 6
+    },
+    {
+      "url": "https://lmaomoba.com",
+      "pushed_at": "2026-06-02",
+      "title": "Show HN: LMAO – Temu League of Legends, Built with Opus 4.8",
+      "score": 5
+    },
+    {
+      "url": "https://github.com/kmcnally5/FROG",
+      "pushed_at": "2026-06-02",
+      "title": "Show HN: Claude wrote me a language, now I don't know what to do with it",
+      "score": 5
+    },
+    {
+      "url": "https://github.com/yujqiao/100cc",
+      "pushed_at": "2026-06-02",
+      "title": "Show HN: 100cc - Roll your own Claude in 100 lines",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tuxy5f/i_put_a_datacenter_gpu_in_my_gaming_pc_for_200/",
+      "pushed_at": "2026-06-02",
+      "title": "I Put a Datacenter GPU in My Gaming PC for £200",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tunmam/replaced_claude_with_local_qwen3627b_in_my/",
+      "pushed_at": "2026-06-02",
+      "title": "Replaced Claude with local Qwen3.6-27B in my multi-agent orchestrator for 2 weeks",
+      "score": 9
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tuvs6l/benchmarks_of_20_small_llms_on_a_6gb_rtx_4050/",
+      "pushed_at": "2026-06-02",
+      "title": "Benchmarks of 20 small LLMs on a 6GB RTX 4050",
+      "score": 9
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tuygn6/using_gemma_4_e4b_with_the_litert_engine_24x/",
+      "pushed_at": "2026-06-02",
+      "title": "Using Gemma 4 E4B with the LiteRT engine - ~2.4x speedup over Q4 GGUF in text generation, image processing roughly the same",
+      "score": 9
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tuyb8s/i_trained_a_75m_parameter_llm_from_scratch_on_18b/",
+      "pushed_at": "2026-06-02",
+      "title": "I trained a 75M parameter LLM from scratch on 18B tokens and it beats a model almost double its size",
+      "score": 7
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tukrtf/qwen_3635ba3b_with_977_tks_prompt_processing_and/",
+      "pushed_at": "2026-06-02",
+      "title": "Qwen 3.6-35B-A3B with 977 tk/s prompt processing and 262k context window on Intel Arc B70 Pro",
+      "score": 9
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tuh5ko/moss_tts_15_8b_examples_it_is_the_currently_best/",
+      "pushed_at": "2026-06-02",
+      "title": "Moss tts 1.5 8b Examples. It is the currently best voice cloning model for English as of June 2026",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tv6quu/which_web_search_api_gives_the_cleanest_markdown/",
+      "pushed_at": "2026-06-02",
+      "title": "Which Web Search API gives the cleanest Markdown output for local RAG parsing?",
+      "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tum94w/dual_rtx_3090_build/",
+      "pushed_at": "2026-06-02",
+      "title": "Dual rtx 3090 build",
+      "score": 5
+    },
+    {
+      "url": "https://github.com/pbakaus/impeccable",
+      "pushed_at": "2026-06-02",
+      "title": "pbakaus/impeccable",
+      "score": 8
+    },
+    {
+      "url": "https://github.com/dmtrKovalenko/fff",
+      "pushed_at": "2026-06-02",
+      "title": "dmtrKovalenko/fff",
+      "score": 7
+    },
+    {
+      "url": "https://techcrunch.com/2026/06/02/zerodrift-raises-10-million-to-protect-ai-models-from-themselves/",
+      "pushed_at": "2026-06-02",
+      "title": "ZeroDrift raises $10M to protect AI models from themselves",
+      "score": 5
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/06/02/1137827/rehumanizing-global-health-care-with-agentic-ai/",
+      "pushed_at": "2026-06-02",
+      "title": "Rehumanizing global health care with agentic AI",
+      "score": 8
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/06/02/1138227/how-small-businesses-can-leverage-ai/",
+      "pushed_at": "2026-06-02",
+      "title": "How small businesses can leverage AI",
+      "score": 6
+    },
+    {
+      "url": "https://www.qbitai.com/2026/06/427729.html",
+      "pushed_at": "2026-06-02",
+      "title": "机器人运控训练步入分钟级时代！清华AIR开源UniLab：3分钟训好人形，速度暴涨10倍，Mac上也能跑",
+      "score": 7
+    },
+    {
+      "url": "https://36kr.com/p/3835814391100550?f=rss",
+      "pushed_at": "2026-06-02",
+      "title": "豆包6月下旬正式付费，并加速打通抖音电商丨36氪独家",
+      "score": 6
+    },
+    {
+      "url": "https://36kr.com/p/3834292242130825?f=rss",
+      "pushed_at": "2026-06-02",
+      "title": "前美团外卖技术负责人创业，做具身智能时代的“餐饮世界模型”",
+      "score": 6
+    },
+    {
+      "url": "https://36kr.com/p/3834400181741440?f=rss",
+      "pushed_at": "2026-06-02",
+      "title": "首轮融资数千万美元、估值2.5亿美元，「Aippy」正在打造下一代AI游戏社区 | 36氪首发",
+      "score": 9
+    },
+    {
+      "url": "https://36kr.com/newsflashes/3836653822784905?f=rss",
+      "pushed_at": "2026-06-02",
+      "title": "微软发布全新量子芯片，计划2029年造出实用量子计算机",
+      "score": 5
+    },
+    {
+      "url": "https://36kr.com/newsflashes/3836624335893897?f=rss",
+      "pushed_at": "2026-06-02",
+      "title": "SpaceX计划最早于周三确定IPO条款",
+      "score": 5
+    },
+    {
+      "url": "https://www.ifanr.com/1667829?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "pushed_at": "2026-06-02",
+      "title": "Anthropic 抢跑 IPO，AI 巨头接连秘密上市，背后是怎样的攻防战",
+      "score": 8
     }
   ]
 }
