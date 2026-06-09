@@ -9503,6 +9503,288 @@
       "pushed_at": "2026-06-08",
       "title": "早报｜苹果发布会限量礼品曝光/字节跳动：没有造车计划/谷歌每月花9.2亿美元向SpaceX租算力",
       "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1u1i4eq/i_spent_30_minutes_making_this_and_won_25k_usd/",
+      "pushed_at": "2026-06-09",
+      "title": "I spent 30 minutes making this and won 2.5k USD worth of OpenAI Codex credits",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1u1d46f/built_a_niche_job_board_for_independent_coffee/",
+      "pushed_at": "2026-06-09",
+      "title": "Built a niche job board for independent coffee shops. 800 monthly visitors, no idea what to do next.",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1u1bscw/launched_a_home_inventory_app_in_march_and_still/",
+      "pushed_at": "2026-06-09",
+      "title": "Launched a home inventory app in March and still working on it every spare minute",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1u1b464/i_spent_the_last_18_months_building_what_is/",
+      "pushed_at": "2026-06-09",
+      "title": "I spent the last 18 months building what is probably one of the most comprehensive analytics and alerts platforms for Polymarket",
+      "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1u1hd9d/i_just_launched_thehomerunsorg_a_singleprop/",
+      "pushed_at": "2026-06-09",
+      "title": "I just launched TheHomeRuns.org; a single-prop research surface for MLB home runs, with AI analysts that argue (and die). AMA.",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1u1l0uj/i_spent_18_months_building_an_ai_personality_game/",
+      "pushed_at": "2026-06-09",
+      "title": "I spent 18 months building an AI personality game instead of launching it. Today I'm finally posting it somewhere.",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1u1l04q/cxt_a_clitui_tool_to_aggregate_your_code_files/",
+      "pushed_at": "2026-06-09",
+      "title": "cxt: a CLI/TUI tool to aggregate your code files into a single clipboard ready block for web AI",
+      "score": 7
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1u1kv01/built_a_powerful_ai_product_but_i_suck_at/",
+      "pushed_at": "2026-06-09",
+      "title": "Built a powerful AI product… but I suck at distribution. Need advice.",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1u1knt2/i_built_a_tool_to_check_landing_pages_before/",
+      "pushed_at": "2026-06-09",
+      "title": "I built a tool to check landing pages before launch. Looking for 10 early testers",
+      "score": 5
+    },
+    {
+      "url": "https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos",
+      "pushed_at": "2026-06-09",
+      "title": "What it feels like to work with Mythos",
+      "score": 6
+    },
+    {
+      "url": "https://www.lennysnewsletter.com/p/claude-fable-5-review-what-the-new",
+      "pushed_at": "2026-06-09",
+      "title": "Claude Fable 5 review: what the new Mythos model gets right (and very wrong)",
+      "score": 8
+    },
+    {
+      "url": "https://simonwillison.net/2026/Jun/9/agentsview-custom-model-price/#atom-everything",
+      "pushed_at": "2026-06-09",
+      "title": "Setting a custom price for a model in AgentsView",
+      "score": 8
+    },
+    {
+      "url": "https://huggingface.co/blog/mishig/spaces-agents-md",
+      "pushed_at": "2026-06-09",
+      "title": "How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces",
+      "score": 5
+    },
+    {
+      "url": "https://github.com/localcodeai/localcode",
+      "pushed_at": "2026-06-09",
+      "title": "Show HN: LocalCode – turn plain English into CLI commands with Apple's local AI",
+      "score": 5
+    },
+    {
+      "url": "https://github.com/sarhej/claude-fix",
+      "pushed_at": "2026-06-09",
+      "title": "Show HN: Separate Work/Personal Claude Desktop profiles on one Mac(bash,no deps)",
+      "score": 8
+    },
+    {
+      "url": "https://github.com/varmabudharaju/agent-pd/blob/master/README.md",
+      "pushed_at": "2026-06-09",
+      "title": "Show HN: Agent-pd – A zero-token audit log to catch rogue Claude Code subagents",
+      "score": 6
+    },
+    {
+      "url": "https://aibriefs.news",
+      "pushed_at": "2026-06-09",
+      "title": "Show HN: AI News Aggregator",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u19pcg/cohere_north_mini_code_10/",
+      "pushed_at": "2026-06-09",
+      "title": "Cohere North Mini Code 1.0",
+      "score": 7
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u1516w/apple_announced_new_on_device_inference_engine/",
+      "pushed_at": "2026-06-09",
+      "title": "Apple announced new on device inference engine for Apple Silicon",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u1dw38/zaiorgscail2_hugging_face/",
+      "pushed_at": "2026-06-09",
+      "title": "zai-org/SCAIL-2 · Hugging Face",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u1edjb/oscar_rotationzoo_offline_spectral/",
+      "pushed_at": "2026-06-09",
+      "title": "OSCAR RotationZoo - Offline Spectral Covariance-Aware Rotation for 2-bit KV Cache Quantization",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u11wvo/jetson_orin_nx_build_for_hermes_agent_benchmarking/",
+      "pushed_at": "2026-06-09",
+      "title": "Jetson Orin NX Build for Hermes Agent + Benchmarking",
+      "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u1blp1/watch_agents_fight_a_live_challenge_to_speed_up/",
+      "pushed_at": "2026-06-09",
+      "title": "Watch agents fight: a live challenge to speed up Gemma 4 E4B inference on a single A10G",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u15qk3/psa_throttle_gpu_power_limits_with_minor/",
+      "pushed_at": "2026-06-09",
+      "title": "PSA: Throttle GPU power limits, with minor performance deficits",
+      "score": 7
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u19a8d/texttospeech_tts_benchmark_revamped_with/",
+      "pushed_at": "2026-06-09",
+      "title": "Text-to-Speech (TTS) Benchmark Revamped with Objective Standards and Blind Voting (46 models and counting)",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u19vn2/our_icml_paper_on_predictable_hallucination/",
+      "pushed_at": "2026-06-09",
+      "title": "Our ICML paper on predictable hallucination (information-budget abstention gate), + ntkMirror: a training-free open-weight implementation we're releasing today",
+      "score": 9
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u0yzts/gemma_4_31bs_competence_surprised_me/",
+      "pushed_at": "2026-06-09",
+      "title": "Gemma 4 31B's competence surprised me",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u106rc/still_a_very_lightweight_open_websearch_tool_for/",
+      "pushed_at": "2026-06-09",
+      "title": "Still a VERY lightweight open web-search tool for smaller local LLMs - now with SearXNG support",
+      "score": 8
+    },
+    {
+      "url": "https://github.com/google/skills",
+      "pushed_at": "2026-06-09",
+      "title": "google/skills",
+      "score": 6
+    },
+    {
+      "url": "https://github.com/refactoringhq/tolaria",
+      "pushed_at": "2026-06-09",
+      "title": "refactoringhq/tolaria",
+      "score": 5
+    },
+    {
+      "url": "https://github.com/phuryn/pm-skills",
+      "pushed_at": "2026-06-09",
+      "title": "phuryn/pm-skills",
+      "score": 7
+    },
+    {
+      "url": "https://github.com/openai/plugins",
+      "pushed_at": "2026-06-09",
+      "title": "openai/plugins",
+      "score": 4
+    },
+    {
+      "url": "https://github.com/Andyyyy64/whichllm",
+      "pushed_at": "2026-06-09",
+      "title": "Andyyyy64/whichllm",
+      "score": 8
+    },
+    {
+      "url": "https://github.com/luongnv89/claude-howto",
+      "pushed_at": "2026-06-09",
+      "title": "luongnv89/claude-howto",
+      "score": 8
+    },
+    {
+      "url": "https://techcrunch.com/2026/06/09/lovable-says-it-has-hit-500m-in-annualized-revenue-with-1-million-new-projects-a-week/",
+      "pushed_at": "2026-06-09",
+      "title": "Lovable says it has hit $500M in annualized revenue, with 1 million new projects a week",
+      "score": 6
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/06/09/1137830/learning-to-lead-in-a-hybrid-human-ai-enterprise/",
+      "pushed_at": "2026-06-09",
+      "title": "Learning to lead in a hybrid human-AI enterprise",
+      "score": 7
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/06/09/1138582/five-things-you-need-to-know-about-ai/",
+      "pushed_at": "2026-06-09",
+      "title": "Five things you need to know about AI",
+      "score": 5
+    },
+    {
+      "url": "https://36kr.com/p/3845645258541319?f=rss",
+      "pushed_at": "2026-06-09",
+      "title": "登顶GitHub Hacker News，这个开源项目让AI编程成本降低 98%｜涌现新项目",
+      "score": 9
+    },
+    {
+      "url": "https://36kr.com/p/3845356968839680?f=rss",
+      "pushed_at": "2026-06-09",
+      "title": "硬氪观察 | WWDC 2026：苹果终于在AI上迈出一小步，国内iPhone还是用不上",
+      "score": 6
+    },
+    {
+      "url": "https://36kr.com/p/3845295918909954?f=rss",
+      "pushed_at": "2026-06-09",
+      "title": "36氪首发 | 国内唯一POD材料产业化团队再创业，布局3C与AI芯片散热，技术积累全球领先",
+      "score": 7
+    },
+    {
+      "url": "https://36kr.com/p/3845293120621057?f=rss",
+      "pushed_at": "2026-06-09",
+      "title": "36氪首发 | AI芯片处理器IP公司完成近亿元融资，核心团队来自Synopsys、ARM等顶尖半导体公司",
+      "score": 8
+    },
+    {
+      "url": "https://36kr.com/p/3839626642344454?f=rss",
+      "pushed_at": "2026-06-09",
+      "title": "「百奥几何」完成数亿元战略融资，打造生命科学\"微观世界模型\"｜36氪首发",
+      "score": 8
+    },
+    {
+      "url": "https://36kr.com/newsflashes/3846100167313667?f=rss",
+      "pushed_at": "2026-06-09",
+      "title": "博通联合阿波罗与黑石设立AI XPV平台，首期350亿美元支持Anthropic算力扩张",
+      "score": 7
+    },
+    {
+      "url": "https://www.ifanr.com/1668457?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "pushed_at": "2026-06-09",
+      "title": "第一批 Agent 员工上岗，腾讯云想帮企业把它们安顿好",
+      "score": 5
+    },
+    {
+      "url": "https://www.ifanr.com/1668500?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "pushed_at": "2026-06-09",
+      "title": "坏了，苹果 AI 真成了？｜iOS 27 上手体验",
+      "score": 6
+    },
+    {
+      "url": "https://www.ifanr.com/1668443?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "pushed_at": "2026-06-09",
+      "title": "iPhone 一夜变成 AiPhone，但 AI 手机的未来不在手机里",
+      "score": 5
+    },
+    {
+      "url": "https://www.ifanr.com/1668423?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "pushed_at": "2026-06-09",
+      "title": "微信发布Skill 文档，数百万小程序，一夜之间变成了 AI 的手和脚",
+      "score": 7
     }
   ]
 }
