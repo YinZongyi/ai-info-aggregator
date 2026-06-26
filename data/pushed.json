@@ -11753,6 +11753,198 @@
       "pushed_at": "2026-06-25",
       "title": "实现光学载荷批量化交付，苏州商业航天企业再获数亿元融资｜36氪首发",
       "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1ug59zk/the_app_i_made_to_solve_my_own_problem_hit_1000/",
+      "pushed_at": "2026-06-26",
+      "title": "The app I made to solve my own problem hit 1000+ downloads and started to get sales! 🥳",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1ug6a45/i_made_a_whiteboard_video_editor_that_turn/",
+      "pushed_at": "2026-06-26",
+      "title": "I made a whiteboard video editor that turn sketches into explainer video",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1ughdbq/hit_my_first_100_downloads_on_a_grocery_price_app/",
+      "pushed_at": "2026-06-26",
+      "title": "Hit my first 100 downloads on a grocery price app i built solo",
+      "score": 6
+    },
+    {
+      "url": "https://www.therundown.ai/p/white-house-reins-in-openai-gpt-5-6",
+      "pushed_at": "2026-06-26",
+      "title": "White House reins in OpenAI's GPT-5.6",
+      "score": 6
+    },
+    {
+      "url": "https://simonwillison.net/2026/Jun/26/hack-my-ai-assistant/#atom-everything",
+      "pushed_at": "2026-06-26",
+      "title": "What happened after 2,000 people tried to hack my AI assistant",
+      "score": 8
+    },
+    {
+      "url": "https://simonwillison.net/2026/Jun/26/openai/#atom-everything",
+      "pushed_at": "2026-06-26",
+      "title": "Quoting OpenAI",
+      "score": 6
+    },
+    {
+      "url": "https://www.statey.ai",
+      "pushed_at": "2026-06-26",
+      "title": "Show HN: Statey – the database your AI shares across every chat, over MCP",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ugg1dm/what_should_i_do_consider_posttraining/",
+      "pushed_at": "2026-06-26",
+      "title": "\"What should I do?\" - consider post-training",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ugj1sf/nemotron3super120ba12b_hybrid_mambamoe_holds/",
+      "pushed_at": "2026-06-26",
+      "title": "Nemotron-3-Super-120B-A12B (hybrid Mamba+MoE) holds perfect needle retrieval to 504K tokens on 4×3090",
+      "score": 9
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ugitcr/vulkan_make_tp_viable_by_pwilkin_pull_request/",
+      "pushed_at": "2026-06-26",
+      "title": "vulkan: make TP viable by pwilkin · Pull Request #25051 · ggml-org/llama.cpp",
+      "score": 7
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ugj532/upgraded_my_budget_build_to_multigpu_for_inference/",
+      "pushed_at": "2026-06-26",
+      "title": "Upgraded my budget build to multi-GPU for inference",
+      "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ufpnm6/audiocpp_12_audio_models_qwen3tts_pockettts_vevo2/",
+      "pushed_at": "2026-06-26",
+      "title": "audio.cpp: 12 audio models (Qwen3-TTS, PocketTTS, VeVo2 etc) in 1 C++/ggml runtime — TTS up to 5x faster than Python on CUDA",
+      "score": 9
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ugh8h4/what_are_people_using_for_multimodel_backends/",
+      "pushed_at": "2026-06-26",
+      "title": "What are people using for multi-model backends? What about swapping configs?",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ugj9r9/can_qwen3635ba3b_on_an_rtx_3060_replace_google/",
+      "pushed_at": "2026-06-26",
+      "title": "Can Qwen3.6-35B-A3B on an RTX 3060 Replace Google Vision for Receipt-to-JSON Extraction?",
+      "score": 7
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ug1j3i/help_optimizing_llamacpp_qwen_27b_on_rtx_pro_6000/",
+      "pushed_at": "2026-06-26",
+      "title": "Help optimizing llama.cpp + Qwen 27B on RTX PRO 6000 Blackwell for coding agents",
+      "score": 8
+    },
+    {
+      "url": "https://github.com/xbtlin/ai-berkshire",
+      "pushed_at": "2026-06-26",
+      "title": "xbtlin/ai-berkshire",
+      "score": 9
+    },
+    {
+      "url": "https://github.com/mauriceboe/TREK",
+      "pushed_at": "2026-06-26",
+      "title": "mauriceboe/TREK",
+      "score": 4
+    },
+    {
+      "url": "https://github.com/every-app/open-seo",
+      "pushed_at": "2026-06-26",
+      "title": "every-app/open-seo",
+      "score": 6
+    },
+    {
+      "url": "https://github.com/aws/agent-toolkit-for-aws",
+      "pushed_at": "2026-06-26",
+      "title": "aws/agent-toolkit-for-aws",
+      "score": 8
+    },
+    {
+      "url": "https://github.com/alibaba/page-agent",
+      "pushed_at": "2026-06-26",
+      "title": "alibaba/page-agent",
+      "score": 7
+    },
+    {
+      "url": "https://github.com/opendatalab/MinerU",
+      "pushed_at": "2026-06-26",
+      "title": "opendatalab/MinerU",
+      "score": 8
+    },
+    {
+      "url": "https://github.com/shanraisshan/claude-code-best-practice",
+      "pushed_at": "2026-06-26",
+      "title": "shanraisshan/claude-code-best-practice",
+      "score": 5
+    },
+    {
+      "url": "https://github.com/NanmiCoder/MediaCrawler",
+      "pushed_at": "2026-06-26",
+      "title": "NanmiCoder/MediaCrawler",
+      "score": 7
+    },
+    {
+      "url": "https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/",
+      "pushed_at": "2026-06-26",
+      "title": "Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)",
+      "score": 5
+    },
+    {
+      "url": "https://techcrunch.com/podcast/openais-jalapeno-chip-is-big-techs-spiciest-move-away-from-nvidia/",
+      "pushed_at": "2026-06-26",
+      "title": "OpenAI’s Jalapeño chip is Big Tech’s spiciest move away from Nvidia",
+      "score": 5
+    },
+    {
+      "url": "https://36kr.com/p/3866837793952769?f=rss",
+      "pushed_at": "2026-06-26",
+      "title": "对话张亚勤：AI不是泡沫，但AI公司有泡沫",
+      "score": 7
+    },
+    {
+      "url": "https://36kr.com/p/3869622921041156?f=rss",
+      "pushed_at": "2026-06-26",
+      "title": "中科闻歌开盘暴涨81%，北京再增一家硬科技IPO",
+      "score": 8
+    },
+    {
+      "url": "https://36kr.com/p/3869474592363528?f=rss",
+      "pushed_at": "2026-06-26",
+      "title": "历经13年，二手车交易平台大搜车终于登陆纳斯达克",
+      "score": 7
+    },
+    {
+      "url": "https://36kr.com/p/3867943030395913?f=rss",
+      "pushed_at": "2026-06-26",
+      "title": "布局下一代人机交互与具身数据入口，「念象科技」完成近千万元天使轮融资｜36氪首发",
+      "score": 7
+    },
+    {
+      "url": "https://www.ifanr.com/1670118?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "pushed_at": "2026-06-26",
+      "title": "你的Codex 可能只解锁了1%，大神让它一天肝 71小时",
+      "score": 7
+    },
+    {
+      "url": "https://www.ifanr.com/1670054?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "pushed_at": "2026-06-26",
+      "title": "美图一口气发了8款产品，我挨个用完发现它们在干同一件事",
+      "score": 5
+    },
+    {
+      "url": "https://www.ifanr.com/1670010?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "pushed_at": "2026-06-26",
+      "title": "早报｜苹果iPad、Mac正式涨价/中兴高管：新一代AI手机近期上市/美光CEO：内存紧张将持续到2027年后",
+      "score": 5
     }
   ]
 }
