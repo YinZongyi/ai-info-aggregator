@@ -13133,6 +13133,132 @@
       "pushed_at": "2026-07-05",
       "title": "Show HN: Video Effects SDK – Face Avatars",
       "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1uoscsn/youtubemusiccli_959_ram_reduction/",
+      "pushed_at": "2026-07-06",
+      "title": "YouTubeMusicCLI: 95.9% RAM reduction!",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1uoyn14/6_weeks_into_building_a_wispr_flow_alternative/",
+      "pushed_at": "2026-07-06",
+      "title": "6 weeks into building a Wispr Flow alternative, and what I learned",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1upamsh/got_tired_of_cv_builders_charging_20_every_month/",
+      "pushed_at": "2026-07-06",
+      "title": "Got tired of CV builders charging €20 every month to download and create my own CV, so I built one where downloading and creation is just... free",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1up3awl/i_built_a_résumé_roaster_that_burns_you_then/",
+      "pushed_at": "2026-07-06",
+      "title": "I built a résumé roaster that burns you, then rewrites your CV — launched this week",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1up9hiw/i_shipped_an_ios_roleplay_with_nsfw_mode_app_that/",
+      "pushed_at": "2026-07-06",
+      "title": "I shipped an iOS Roleplay (with NSFW mode) app that runs an LLM fully on your iPhone, no server or account. Here's what I learned",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1up7c7p/i_built_a_translation_app_that_gives_you_feedback/",
+      "pushed_at": "2026-07-06",
+      "title": "I built a translation app that gives you feedback on possible improvements, but I have no idea if it's actually good",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1upcnm5/i_built_a_tool_that_catches_nyc_rental_approval/",
+      "pushed_at": "2026-07-06",
+      "title": "I built a tool that catches NYC rental approval problems before brokers do — looking for ~10 NYC renters to test it free",
+      "score": 5
+    },
+    {
+      "url": "https://www.lennysnewsletter.com/p/how-i-ai-sonnet-5-review-and-how",
+      "pushed_at": "2026-07-06",
+      "title": "🎙️ How I AI: Sonnet 5 review & How to run autonomous coding agents from your phone",
+      "score": 8
+    },
+    {
+      "url": "https://www.lennysnewsletter.com/p/how-i-run-autonomous-coding-agents",
+      "pushed_at": "2026-07-06",
+      "title": "How I run autonomous coding agents from my phone with OpenAI Symphony + Linear | Alessio Fanelli (Kernel Labs)",
+      "score": 7
+    },
+    {
+      "url": "https://jpthecat.com",
+      "pushed_at": "2026-07-06",
+      "title": "Show HN: A little cat that counts your tokens (Claude and codex)",
+      "score": 5
+    },
+    {
+      "url": "https://github.com/animesh-94/Onboard-CLI",
+      "pushed_at": "2026-07-06",
+      "title": "Show HN: Onboard CLI uses LLM to filter out nodes and AST to visualize codebase",
+      "score": 6
+    },
+    {
+      "url": "https://github.com/eozsahin1993/ragpack",
+      "pushed_at": "2026-07-06",
+      "title": "Show HN: RagPack – Lightweight self-hosted RAG infra for startups",
+      "score": 5
+    },
+    {
+      "url": "https://github.com/hesreallyhim/awesome-claude-code",
+      "pushed_at": "2026-07-06",
+      "title": "hesreallyhim/awesome-claude-code",
+      "score": 5
+    },
+    {
+      "url": "https://github.com/gastownhall/gastown",
+      "pushed_at": "2026-07-06",
+      "title": "gastownhall/gastown",
+      "score": 6
+    },
+    {
+      "url": "https://github.com/OthmanAdi/planning-with-files",
+      "pushed_at": "2026-07-06",
+      "title": "OthmanAdi/planning-with-files",
+      "score": 8
+    },
+    {
+      "url": "https://github.com/steipete/CodexBar",
+      "pushed_at": "2026-07-06",
+      "title": "steipete/CodexBar",
+      "score": 8
+    },
+    {
+      "url": "https://36kr.com/p/3883591654895873?f=rss",
+      "pushed_at": "2026-07-06",
+      "title": "获DCM Ventures投资数百万美元，APTSell希望成为AI版的首席销售官｜涌现新项目",
+      "score": 7
+    },
+    {
+      "url": "https://36kr.com/p/3883456791163138?f=rss",
+      "pushed_at": "2026-07-06",
+      "title": "AI 砍掉的第一批大厂人：高薪，高绩效，高P｜深氪",
+      "score": 6
+    },
+    {
+      "url": "https://36kr.com/p/3880060701388809?f=rss",
+      "pushed_at": "2026-07-06",
+      "title": "鄂尔多斯、和达金服共同领投，「贻如科技」完成超亿元A轮融资｜36氪首发",
+      "score": 7
+    },
+    {
+      "url": "https://www.ifanr.com/1671041?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "pushed_at": "2026-07-06",
+      "title": "实测腾讯 Hy3 正式版，这次终于赶上了「AI 下半场」",
+      "score": 9
+    },
+    {
+      "url": "https://www.ifanr.com/1669952?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "pushed_at": "2026-07-06",
+      "title": "Codex 一键省 Token 大法，亲测有效",
+      "score": 9
     }
   ]
 }
