@@ -13421,6 +13421,180 @@
       "pushed_at": "2026-07-07",
       "title": "刷完 Fable 5 爆火玩法，我发现自己用 AI 第一步就错了",
       "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1uqi6ay/i_spent_6_months_training_a_model_to_vectorize_ai/",
+      "pushed_at": "2026-07-08",
+      "title": "I spent 6 months training a model to vectorize AI images properly, because every tracer gave me node soup",
+      "score": 7
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1uqs5u1/my_side_project_crossed_thousands_of_users_this/",
+      "pushed_at": "2026-07-08",
+      "title": "My side project crossed thousands of users this week and I still can't quite believe people actually use the thing",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1ur4c4w/i_stopped_asking_people_if_my_idea_was_good/",
+      "pushed_at": "2026-07-08",
+      "title": "I stopped asking people if my idea was good",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1uqujo4/i_mapped_everything_a_kid_learns_from_4_to_15/",
+      "pushed_at": "2026-07-08",
+      "title": "I mapped everything a kid learns from 4 to 15 into one graph (1,144 concepts, 1,948 links) before building a single screen",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1uqvoi2/trying_reddit_ads_for_my_side_project_got_lots_of/",
+      "pushed_at": "2026-07-08",
+      "title": "Trying Reddit ads for my side project. Got Lots of impressions but no signups. Would love honest feedback.",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1uqja2d/i_made_claude_code_codex_and_hermes_work_like/",
+      "pushed_at": "2026-07-08",
+      "title": "I made Claude Code, Codex and Hermes work like coworkers",
+      "score": 7
+    },
+    {
+      "url": "https://www.therundown.ai/p/meta-climbs-the-ai-image-leaderboard",
+      "pushed_at": "2026-07-08",
+      "title": "Meta climbs the AI image leaderboard",
+      "score": 6
+    },
+    {
+      "url": "https://www.latent.space/p/modal2026",
+      "pushed_at": "2026-07-08",
+      "title": "Why AI Infrastructure must evolve for Agent Experience — Akshat Bubna, Modal CTO",
+      "score": 8
+    },
+    {
+      "url": "https://www.latent.space/p/ainews-lilian-weng-summarizes-35",
+      "pushed_at": "2026-07-08",
+      "title": "[AINews] Lilian Weng summarizes 35 papers on Harness Engineering for RSI",
+      "score": 5
+    },
+    {
+      "url": "https://www.lennysnewsletter.com/p/what-a-harness-is-and-how-to-build",
+      "pushed_at": "2026-07-08",
+      "title": "What a harness is and how to build one with Claude Agent SDK",
+      "score": 9
+    },
+    {
+      "url": "https://www.clayseal.com",
+      "pushed_at": "2026-07-08",
+      "title": "Show HN: Runtime security enforcement and capability scoping for agents",
+      "score": 6
+    },
+    {
+      "url": "https://nully.chat/",
+      "pushed_at": "2026-07-08",
+      "title": "Show HN: Nully – FOSS AI chat without the bloat",
+      "score": 6
+    },
+    {
+      "url": "https://github.com/surenode-ai/skill-extractor",
+      "pushed_at": "2026-07-08",
+      "title": "Show HN: Skill-extractor turns coding agent transcripts into reusable skills",
+      "score": 5
+    },
+    {
+      "url": "https://github.com/columnar-tech/duckdb-adbc-client",
+      "pushed_at": "2026-07-08",
+      "title": "Show HN: Connect DuckDB to any database that has an ADBC driver",
+      "score": 8
+    },
+    {
+      "url": "https://www.usenino.com/",
+      "pushed_at": "2026-07-08",
+      "title": "Show HN: Nino – a dedicated CFP/CPA team and AI to manage your financial life",
+      "score": 6
+    },
+    {
+      "url": "https://github.com/MadsLorentzen/ai-job-search",
+      "pushed_at": "2026-07-08",
+      "title": "MadsLorentzen/ai-job-search",
+      "score": 7
+    },
+    {
+      "url": "https://github.com/iOfficeAI/OfficeCLI",
+      "pushed_at": "2026-07-08",
+      "title": "iOfficeAI/OfficeCLI",
+      "score": 8
+    },
+    {
+      "url": "https://github.com/kyutai-labs/pocket-tts",
+      "pushed_at": "2026-07-08",
+      "title": "kyutai-labs/pocket-tts",
+      "score": 8
+    },
+    {
+      "url": "https://techcrunch.com/2026/07/08/prime-intellect-raises-130m-series-a-to-help-enterprises-build-their-own-ai-agents/",
+      "pushed_at": "2026-07-08",
+      "title": "Prime Intellect raises $130M Series A to help enterprises build their own AI agents",
+      "score": 5
+    },
+    {
+      "url": "https://techcrunch.com/podcast/your-gaming-data-could-be-the-secret-to-agi-according-to-this-bezos-backed-startup/",
+      "pushed_at": "2026-07-08",
+      "title": "Your gaming data could be the secret to AGI, according to this Bezos-backed startup",
+      "score": 5
+    },
+    {
+      "url": "https://trends.vc/synthetic-ugc-ads-ai-actors-managed-agencies-creative-fatigue/",
+      "pushed_at": "2026-07-08",
+      "title": "Synthetic UGC Ads: AI Actors, Managed Agencies, Creative Fatigue",
+      "score": 8
+    },
+    {
+      "url": "https://36kr.com/p/3886574096265481?f=rss",
+      "pushed_at": "2026-07-08",
+      "title": "从跨境电商到AI大模型：一个旅欧10年90后女生的两次出海",
+      "score": 8
+    },
+    {
+      "url": "https://36kr.com/p/3886403765596418?f=rss",
+      "pushed_at": "2026-07-08",
+      "title": "AI 视频全面成熟：Seedance 2.0 领衔，6 款主流工具深度横评",
+      "score": 6
+    },
+    {
+      "url": "https://36kr.com/p/3886301334630407?f=rss",
+      "pushed_at": "2026-07-08",
+      "title": "36氪首发 | 获上海国投领投，这家量子传感企业产品已落地惯性导航、气体监测等",
+      "score": 6
+    },
+    {
+      "url": "https://36kr.com/p/3885728813691145?f=rss",
+      "pushed_at": "2026-07-08",
+      "title": "36氪独家 | 快造科技完成10亿元融资，为一级市场消费级3D打印最大单笔融资",
+      "score": 8
+    },
+    {
+      "url": "https://36kr.com/p/3885479689465858?f=rss",
+      "pushed_at": "2026-07-08",
+      "title": "「德睿智药」获5200万美元B轮融资，AI设计的减肥药已进入3期临床｜36氪首发",
+      "score": 7
+    },
+    {
+      "url": "https://www.ifanr.com/1671196?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "pushed_at": "2026-07-08",
+      "title": "把 Fable 5 装进 MacBook，还要多久",
+      "score": 7
+    },
+    {
+      "url": "https://www.ifanr.com/1671272?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "pushed_at": "2026-07-08",
+      "title": "马斯克不造 iPhone，但他想让手机替你赚钱",
+      "score": 5
+    },
+    {
+      "url": "https://www.ifanr.com/1671236?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "pushed_at": "2026-07-08",
+      "title": "用美国豆包做了个 app，停不下来了！",
+      "score": 7
     }
   ]
 }
