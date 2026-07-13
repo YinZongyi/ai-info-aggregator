@@ -14135,6 +14135,192 @@
       "pushed_at": "2026-07-12",
       "title": "腾讯 WorkBuddy 入门指南：更适合国人体质的 Codex，真的能替我干活",
       "score": 9
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1uvnhhf/my_free_nosignup_side_project_hit_600_plans_in/",
+      "pushed_at": "2026-07-13",
+      "title": "My free, no-signup side project hit 600+ plans in its first two weeks. Now I want to grow it properly and I'm not sure how",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1uv6ih7/ai_coding_agents_got_smarter_but_my_workflow_was/",
+      "pushed_at": "2026-07-13",
+      "title": "AI coding agents got smarter but my workflow was still terminals and lost sessions, so I built a 3D workspace for them",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1uvmi7n/coding_puzzles_meet_chess_tactics_i_built_a/",
+      "pushed_at": "2026-07-13",
+      "title": "Coding puzzles meet chess tactics: I built a sandbox-validated puzzle engine with integrated ELO ratings",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1uvkzwy/freebuilding_a_mac_app_that_drafts_replies_in/",
+      "pushed_at": "2026-07-13",
+      "title": "(Free)Building a mac app that drafts replies in your own tone",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1uvo8x0/i_built_an_opensource_warp_drive_for_longrunning/",
+      "pushed_at": "2026-07-13",
+      "title": "I built an open-source “warp drive” for long-running AI agent context",
+      "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1uvo420/i_built_a_tool_that_turns_a_youtube_playlist_into/",
+      "pushed_at": "2026-07-13",
+      "title": "I built a tool that turns a YouTube playlist into a plan you actually finish",
+      "score": 5
+    },
+    {
+      "url": "https://www.therundown.ai/p/apple-takes-openai-to-court",
+      "pushed_at": "2026-07-13",
+      "title": "Apple takes OpenAI to court",
+      "score": 5
+    },
+    {
+      "url": "https://www.lennysnewsletter.com/p/how-i-ai-gpt-56-review-how-a-solo",
+      "pushed_at": "2026-07-13",
+      "title": "🎙️ How I AI: GPT-5.6 review, How a solo builder runs 24/7 local AI, and What an agent harness is and how to build one",
+      "score": 7
+    },
+    {
+      "url": "https://www.lennysnewsletter.com/p/this-solo-builder-runs-247-local",
+      "pushed_at": "2026-07-13",
+      "title": "This solo builder runs 24/7 local AI on his own hardware | Alex Finn",
+      "score": 7
+    },
+    {
+      "url": "https://simonwillison.net/2026/Jul/12/shot-scraper/#atom-everything",
+      "pushed_at": "2026-07-13",
+      "title": "shot-scraper 1.11",
+      "score": 5
+    },
+    {
+      "url": "https://github.com/lacion/fleet-deck",
+      "pushed_at": "2026-07-13",
+      "title": "Show HN: Fleet Deck – see every Claude Code session on your machine in one board",
+      "score": 7
+    },
+    {
+      "url": "https://github.com/marcelpanse/youtube-guitar-tab-parser",
+      "pushed_at": "2026-07-13",
+      "title": "Show HN: YouTube Guitar Tab Parser",
+      "score": 6
+    },
+    {
+      "url": "https://github.com/xqlsystems/xarray-sql/blob/claude/xarray-sql-mnist-demo/benchmarks/nn.py",
+      "pushed_at": "2026-07-13",
+      "title": "Show HN: I implemented a neural network in SQL",
+      "score": 7
+    },
+    {
+      "url": "https://rekody.com/",
+      "pushed_at": "2026-07-13",
+      "title": "Show HN: Rekody, free on-device voice dictation for macOS",
+      "score": 5
+    },
+    {
+      "url": "https://github.com/Dicklesworthstone/destructive_command_guard",
+      "pushed_at": "2026-07-13",
+      "title": "Dicklesworthstone/destructive_command_guard",
+      "score": 8
+    },
+    {
+      "url": "https://github.com/PrefectHQ/prefect",
+      "pushed_at": "2026-07-13",
+      "title": "PrefectHQ/prefect",
+      "score": 6
+    },
+    {
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "pushed_at": "2026-07-13",
+      "title": "Shubhamsaboo/awesome-llm-apps",
+      "score": 8
+    },
+    {
+      "url": "https://github.com/ColeMurray/background-agents",
+      "pushed_at": "2026-07-13",
+      "title": "ColeMurray/background-agents",
+      "score": 8
+    },
+    {
+      "url": "https://github.com/pingdotgg/t3code",
+      "pushed_at": "2026-07-13",
+      "title": "pingdotgg/t3code",
+      "score": 6
+    },
+    {
+      "url": "https://github.com/virattt/ai-hedge-fund",
+      "pushed_at": "2026-07-13",
+      "title": "virattt/ai-hedge-fund",
+      "score": 7
+    },
+    {
+      "url": "https://github.com/Nutlope/hallmark",
+      "pushed_at": "2026-07-13",
+      "title": "Nutlope/hallmark",
+      "score": 8
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
+      "pushed_at": "2026-07-13",
+      "title": "What Anthropic’s latest AI discovery does—and doesn’t—show",
+      "score": 6
+    },
+    {
+      "url": "https://36kr.com/p/3893815451417347?f=rss",
+      "pushed_at": "2026-07-13",
+      "title": "字节探索自动驾驶，Seed世界模型团队负责｜36氪独家",
+      "score": 6
+    },
+    {
+      "url": "https://36kr.com/p/3879780282495236?f=rss",
+      "pushed_at": "2026-07-13",
+      "title": "AI家庭智能硬件公司获数千万元融资，首款产品今年上线海外｜硬氪首发",
+      "score": 7
+    },
+    {
+      "url": "https://36kr.com/p/3885232033378308?f=rss",
+      "pushed_at": "2026-07-13",
+      "title": "头部人形机器人关节公司半年再获新融资，同创伟业领投数亿元｜硬氪首发",
+      "score": 8
+    },
+    {
+      "url": "https://36kr.com/newsflashes/3894027379899655?f=rss",
+      "pushed_at": "2026-07-13",
+      "title": "英特尔宣布向爱尔兰工厂追加投资50亿欧元，扩大AI芯片产能",
+      "score": 5
+    },
+    {
+      "url": "https://www.ifanr.com/1671945?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "pushed_at": "2026-07-13",
+      "title": "英伟达 AIPC 中国首秀，笔记本里装下一座「曼哈顿」",
+      "score": 7
+    },
+    {
+      "url": "https://www.ifanr.com/1671899?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "pushed_at": "2026-07-13",
+      "title": "Codex 不限时了，我先删掉了一堆 Skills ｜附 GPT-5.6 官方指南",
+      "score": 8
+    },
+    {
+      "url": "https://www.ifanr.com/1671817?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "pushed_at": "2026-07-13",
+      "title": "实测完这个国产 AI 生图，我发现了下一个刷屏玩法",
+      "score": 8
+    },
+    {
+      "url": "https://www.ifanr.com/1671799?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "pushed_at": "2026-07-13",
+      "title": "这个机器人的手，有点灵活过头了",
+      "score": 6
+    },
+    {
+      "url": "https://www.ifanr.com/1671775?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "pushed_at": "2026-07-13",
+      "title": "2026 最值得期待的 AI 硬件，是卡片｜AI 器物志",
+      "score": 7
     }
   ]
 }
