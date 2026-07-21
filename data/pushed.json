@@ -1,168 +1,6 @@
 {
   "pushed": [
     {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sr2wid/i_benchmarked_21_local_llms_on_a_macbook_air_m5/",
-      "pushed_at": "2026-04-21",
-      "title": "I benchmarked 21 local LLMs on a MacBook Air M5 for code quality AND speed",
-      "score": 9
-    },
-    {
-      "url": "https://www.reddit.com/r/Entrepreneur/comments/1sql1ub/29000_in_revenue_from_15k_in_ad_spend_for_a/",
-      "pushed_at": "2026-04-21",
-      "title": "$29,000 in revenue from $1.5k in ad spend for a consulting offer. Full breakdown.",
-      "score": 8
-    },
-    {
-      "url": "https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-how-intercom",
-      "pushed_at": "2026-04-21",
-      "title": "🎙️ This week on How I AI: How Intercom 2x’d their engineering velocity with Claude Code",
-      "score": 8
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sqspgy/qwen3527b_qwen35122b_and_qwen3635b_on_4x_rtx_3090/",
-      "pushed_at": "2026-04-21",
-      "title": "Qwen3.5-27B, Qwen3.5-122B, and Qwen3.6-35B on 4x RTX 3090 — MoEs struggle with strict global rules",
-      "score": 8
-    },
-    {
-      "url": "https://github.com/tractorjuice/arc-kit",
-      "pushed_at": "2026-04-21",
-      "title": "tractorjuice/arc-kit",
-      "score": 8
-    },
-    {
-      "url": "https://github.com/openai/openai-agents-python",
-      "pushed_at": "2026-04-21",
-      "title": "openai/openai-agents-python",
-      "score": 8
-    },
-    {
-      "url": "https://36kr.com/p/3775892441301511?f=rss",
-      "pushed_at": "2026-04-21",
-      "title": "专访Eight Sleep CTO：被马斯克们买爆的AI床垫，进中国先砍一刀订阅费",
-      "score": 8
-    },
-    {
-      "url": "https://www.ifanr.com/1662860?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "pushed_at": "2026-04-21",
-      "title": "实测Claude Design：小白也能做出专业级设计｜附最全玩法+官方实用技巧",
-      "score": 8
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1sr9w58/daily_agent_mcp_productivity_data_layer_for/",
-      "pushed_at": "2026-04-21",
-      "title": "Daily Agent MCP — Productivity data layer for OpenClaw - open source",
-      "score": 7
-    },
-    {
-      "url": "https://www.reddit.com/r/Entrepreneur/comments/1sqv7be/figma_just_got_what_zoominfo_is_about_to_get/",
-      "pushed_at": "2026-04-21",
-      "title": "Figma just got what ZoomInfo is about to get",
-      "score": 7
-    },
-    {
-      "url": "https://www.latent.space/p/ainews-moonshot-kimi-k26-the-worlds",
-      "pushed_at": "2026-04-21",
-      "title": "[AINews] Moonshot Kimi K2.6: the world's leading Open Model refreshes to catch up to Opus 4.6 (ahead of DeepSeek v4?)",
-      "score": 7
-    },
-    {
-      "url": "https://www.latent.space/p/noetik",
-      "pushed_at": "2026-04-21",
-      "title": "🔬 Training Transformers to solve 95% failure rate of Cancer Trials — Ron Alfa & Daniel Bear, Noetik",
-      "score": 7
-    },
-    {
-      "url": "https://github.com/caihongxu/palmier",
-      "pushed_at": "2026-04-21",
-      "title": "Show HN: Palmier – bridge your AI agents and your phone",
-      "score": 7
-    },
-    {
-      "url": "https://news.ycombinator.com/item?id=47843670",
-      "pushed_at": "2026-04-21",
-      "title": "Show HN: NeuG – High-performance Embedded graph DB, one line to serve",
-      "score": 7
-    },
-    {
-      "url": "https://github.com/jbarbier/which-claude-code",
-      "pushed_at": "2026-04-21",
-      "title": "Show HN: Auto-generated titles and colors for parallel Claude Code sessions",
-      "score": 7
-    },
-    {
-      "url": "https://mcpfinder.dev/",
-      "pushed_at": "2026-04-21",
-      "title": "Show HN: MCPfinder – An MCP server that finds and installs other MCP servers",
-      "score": 7
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sqrl1l/gemma_4_26ba4b_gguf_benchmarks/",
-      "pushed_at": "2026-04-21",
-      "title": "Gemma 4 26B-A4B GGUF Benchmarks",
-      "score": 7
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sr8gyf/qwen3527b_on_rtx_5090_served_via_vllm_77_tps/",
-      "pushed_at": "2026-04-21",
-      "title": "Qwen3.5-27B on RTX 5090 served via vLLM @ 77 tps",
-      "score": 7
-    },
-    {
-      "url": "https://github.com/ruvnet/RuView",
-      "pushed_at": "2026-04-21",
-      "title": "ruvnet/RuView",
-      "score": 7
-    },
-    {
-      "url": "https://github.com/thunderbird/thunderbolt",
-      "pushed_at": "2026-04-21",
-      "title": "thunderbird/thunderbolt",
-      "score": 7
-    },
-    {
-      "url": "https://github.com/paperless-ngx/paperless-ngx",
-      "pushed_at": "2026-04-21",
-      "title": "paperless-ngx/paperless-ngx",
-      "score": 7
-    },
-    {
-      "url": "https://github.com/koala73/worldmonitor",
-      "pushed_at": "2026-04-21",
-      "title": "koala73/worldmonitor",
-      "score": 7
-    },
-    {
-      "url": "https://github.com/deepseek-ai/DeepGEMM",
-      "pushed_at": "2026-04-21",
-      "title": "deepseek-ai/DeepGEMM",
-      "score": 7
-    },
-    {
-      "url": "https://github.com/pi-hole/pi-hole",
-      "pushed_at": "2026-04-21",
-      "title": "pi-hole/pi-hole",
-      "score": 7
-    },
-    {
-      "url": "https://techcrunch.com/2026/04/20/anthropic-takes-5b-from-amazon-and-pledges-100b-in-cloud-spending-in-return/",
-      "pushed_at": "2026-04-21",
-      "title": "Anthropic takes $5B from Amazon and pledges $100B in cloud spending in return",
-      "score": 7
-    },
-    {
-      "url": "https://www.technologyreview.com/2026/04/20/1136149/chinese-tech-workers-ai-colleagues/",
-      "pushed_at": "2026-04-21",
-      "title": "Chinese tech workers are starting to train their AI doubles–and pushing back",
-      "score": 7
-    },
-    {
-      "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
-      "pushed_at": "2026-04-21",
-      "title": "Fincept-Corporation/FinceptTerminal",
-      "score": 6
-    },
-    {
       "url": "https://www.reddit.com/r/SideProject/comments/1srrk1r/i_had_719_visitors_and_almost_no_signups_then_i/",
       "pushed_at": "2026-04-22",
       "title": "I had 719 visitors and almost no signups. Then I changed 2 things and started waking up to new users every morning.",
@@ -15233,6 +15071,216 @@
       "pushed_at": "2026-07-20",
       "title": "世界杯冠军刚出炉，我让商汤 U1 Pro 做了一份全景赛况图",
       "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1v2qxci/i_built_pressbook_ios_app_that_turns_your_camera/",
+      "pushed_at": "2026-07-21",
+      "title": "I built Pressbook - iOS app that turns your camera roll into magazine-style albums, carousels & collages on-Device",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1v2wsc4/i_know_how_to_tell_if_a_hostel_is_good_so_i_built/",
+      "pushed_at": "2026-07-21",
+      "title": "I know how to tell if a hostel is good so I built a tool that checks all of them and shows you the best",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1v2wnv8/i_built_an_opensource_way_to_run_local_llms_on/",
+      "pushed_at": "2026-07-21",
+      "title": "I built an open-source way to run local LLMs on Intel NPUs with OpenVINO",
+      "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1v2lzpx/malskanner_scan_a_repo_for_hidden_promptinjection/",
+      "pushed_at": "2026-07-21",
+      "title": "malskanner – scan a repo for hidden prompt-injection before your AI agent trusts it",
+      "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1v2vf2o/i_shipped_an_ios_app_where_7_ancient_philosophers/",
+      "pushed_at": "2026-07-21",
+      "title": "I shipped an iOS app where 7 ancient philosophers argue about your problems in a group chat — here's what building it solo looked like",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1v2ve58/built_a_python_nextjs_pipeline_that_generates_and/",
+      "pushed_at": "2026-07-21",
+      "title": "built a Python + Next.js pipeline that generates and uploads full 20-minute YouTube documentaries from a single prompt",
+      "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1v2sxh1/im_building_a_tool_that_checks_whether_ai_coding/",
+      "pushed_at": "2026-07-21",
+      "title": "I’m building a tool that checks whether AI coding agents actually did what they claimed",
+      "score": 5
+    },
+    {
+      "url": "https://www.bensbites.com/p/better-design-than-fable",
+      "pushed_at": "2026-07-21",
+      "title": "Better design than Fable",
+      "score": 6
+    },
+    {
+      "url": "https://www.therundown.ai/p/claude-disproves-an-87-year-old-math-problem",
+      "pushed_at": "2026-07-21",
+      "title": "Claude disproves an 87-year-old math problem",
+      "score": 5
+    },
+    {
+      "url": "https://www.latent.space/p/xaira",
+      "pushed_at": "2026-07-21",
+      "title": "🔬Causal Models Need Causal Data - Xaira’s X-Cell model for Drug Discovery (Bo Wang & Ci Chu, Chief Discovery Officer & Chief AI Scientist)",
+      "score": 6
+    },
+    {
+      "url": "https://www.latent.space/p/ainews-not-much-happened-today-173",
+      "pushed_at": "2026-07-21",
+      "title": "[AINews] not much happened today",
+      "score": 6
+    },
+    {
+      "url": "https://simonwillison.net/2026/Jul/21/nativ/#atom-everything",
+      "pushed_at": "2026-07-21",
+      "title": "Nativ: Run AI models locally on your Mac",
+      "score": 5
+    },
+    {
+      "url": "https://simonwillison.net/2026/Jul/21/cat-and-thariq/#atom-everything",
+      "pushed_at": "2026-07-21",
+      "title": "A Fireside Chat with Cat and Thariq from the Claude Code team",
+      "score": 8
+    },
+    {
+      "url": "https://kmcheung12.github.io/faceblind/",
+      "pushed_at": "2026-07-21",
+      "title": "Show HN: Faceblind – In-browser only video face blurring",
+      "score": 6
+    },
+    {
+      "url": "https://llmtrail.com/demo",
+      "pushed_at": "2026-07-21",
+      "title": "Show HN: I built a chat client that uses embeddings to cluster messages by topic",
+      "score": 6
+    },
+    {
+      "url": "https://libretto.sh/browser-tools",
+      "pushed_at": "2026-07-21",
+      "title": "Show HN: Browser Tools SDK – an optimal browser harness for agents",
+      "score": 9
+    },
+    {
+      "url": "https://meltbox.ai/",
+      "pushed_at": "2026-07-21",
+      "title": "Show HN: Meltbox – where your agents send you briefs",
+      "score": 5
+    },
+    {
+      "url": "https://github.com/fcavalcantirj/claude-code-eyes",
+      "pushed_at": "2026-07-21",
+      "title": "Show HN: Claude Code built my ESP32 and fixed its UI by looking at a webcam",
+      "score": 6
+    },
+    {
+      "url": "https://github.com/Mattie/joydex",
+      "pushed_at": "2026-07-21",
+      "title": "Show HN: Use your flight-sim gear as a Codex Micro",
+      "score": 7
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v2g9bc/ceo_of_hugging_face_banning_opensource_ai_would/",
+      "pushed_at": "2026-07-21",
+      "title": "CEO of Hugging Face: Banning open-source AI would hurt defenders 10x more than attackers, which would make the world 10x more dangerous and this is a good example why!",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v2pg99/laguna_s_21_released_cheaper_than_deepseek_v4/",
+      "pushed_at": "2026-07-21",
+      "title": "Laguna S 2.1 Released: Cheaper than Deepseek v4 Flash, Better than V4 Pro",
+      "score": 9
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v2orhb/poolsidelagunas21_released_finally_an_interesting/",
+      "pushed_at": "2026-07-21",
+      "title": "poolside/Laguna-S-2.1 released! Finally an interesting 120B contender!",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v2n7l6/new_model_nanbeige423b_looped_transformer/",
+      "pushed_at": "2026-07-21",
+      "title": "New Model: Nanbeige4.2-3B (Looped Transformer, outperforms 4x size)",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v2ua8g/i_ran_lagunas21_through_my_private_agentic_eval/",
+      "pushed_at": "2026-07-21",
+      "title": "I ran Laguna-S-2.1 through my private agentic eval vs Qwen3.5-122B on an RTX Pro 6000 (96GB). Fastest 100B+ I've tested and the best tool calling, but it invents facts under pressure.",
+      "score": 9
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v21j14/google_has_disappeared_completely_from_the_top_15/",
+      "pushed_at": "2026-07-21",
+      "title": "Google has disappeared completely from the top 15",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v2lszl/pi_0810_adds_support_for_llamacpp/",
+      "pushed_at": "2026-07-21",
+      "title": "pi 0.81.0 adds support for llama.cpp",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v2mhmi/20b_looping_model_paper_matches_or_beats_qwen3/",
+      "pushed_at": "2026-07-21",
+      "title": "20B Looping model (paper) matches or beats Qwen3 Coder 30B at 10% of pre-training tokens",
+      "score": 7
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v2glcx/torrents_arrived/",
+      "pushed_at": "2026-07-21",
+      "title": "Torrents arrived",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v2mszh/sensenovau18bmotinfographicv3_has_been_released_2/",
+      "pushed_at": "2026-07-21",
+      "title": "SenseNova-U1-8b-MoT-Infographic-V3 has been released (2 weeks after V2)",
+      "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v275de/davidau_somehow_managed_to_improve_qwen_36_27b/",
+      "pushed_at": "2026-07-21",
+      "title": "DavidAU somehow managed to improve Qwen 3.6 27B",
+      "score": 7
+    },
+    {
+      "url": "https://github.com/oblien/openship",
+      "pushed_at": "2026-07-21",
+      "title": "oblien/openship",
+      "score": 6
+    },
+    {
+      "url": "https://github.com/handy-computer/transcribe.cpp",
+      "pushed_at": "2026-07-21",
+      "title": "handy-computer/transcribe.cpp",
+      "score": 8
+    },
+    {
+      "url": "https://github.com/moonshine-ai/moonshine",
+      "pushed_at": "2026-07-21",
+      "title": "moonshine-ai/moonshine",
+      "score": 9
+    },
+    {
+      "url": "https://36kr.com/newsflashes/3905378728268932?f=rss",
+      "pushed_at": "2026-07-21",
+      "title": "微软与Mistral扩大AI合作，签署数十亿美元欧洲AI基础设施协议",
+      "score": 6
+    },
+    {
+      "url": "https://www.ifanr.com/1672648?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "pushed_at": "2026-07-21",
+      "title": "1500 元的 Codex 键盘卖断货，这小哥反手自己造了一台",
+      "score": 7
     }
   ]
 }
