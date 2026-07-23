@@ -1,210 +1,6 @@
 {
   "pushed": [
     {
-      "url": "https://www.reddit.com/r/SideProject/comments/1st51xy/i_built_an_ai_bot_that_clips_twitch_vods_and/",
-      "pushed_at": "2026-04-23",
-      "title": "I built an AI bot that clips Twitch VODs and auto-posts them to TikTok. 30 days in — here's the numbers, the tech, and what broke.",
-      "score": 9
-    },
-    {
-      "url": "https://www.reddit.com/r/Entrepreneur/comments/1ssqek0/i_spent_the_last_year_auditing_ai_stacks_inside/",
-      "pushed_at": "2026-04-23",
-      "title": "I spent the last year auditing AI stacks inside founder businesses... Here's the 3-question audit I run before building anything.",
-      "score": 8
-    },
-    {
-      "url": "https://www.latent.space/p/shopify",
-      "pushed_at": "2026-04-23",
-      "title": "Shopify’s AI Phase Transition: 2026 Usage Explosion, Unlimited Opus-4.6 Token Budget, Tangle, Tangent, SimGym — with Mikhail Parakhin, Shopify CTO",
-      "score": 8
-    },
-    {
-      "url": "https://simonwillison.net/2026/Apr/22/qwen36-27b/#atom-everything",
-      "pushed_at": "2026-04-23",
-      "title": "Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model",
-      "score": 8
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ssugid/qwen3_tts_is_seriously_underrated_i_got_it/",
-      "pushed_at": "2026-04-23",
-      "title": "Qwen3 TTS is seriously underrated - I got it running locally in real-time and it's one of the most expressive open TTS models I've tried",
-      "score": 8
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ssilc3/qwen3635b_becomes_competitive_with_cloud_models/",
-      "pushed_at": "2026-04-23",
-      "title": "Qwen3.6-35B becomes competitive with cloud models when paired with the right agent",
-      "score": 8
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1st3m8y/qwen_36_is_actually_useful_for_vibecoding_and_way/",
-      "pushed_at": "2026-04-23",
-      "title": "Qwen 3.6 is actually useful for vibe-coding, and way cheaper than Claude",
-      "score": 8
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sslwjv/local_manga_translator_with_llm_buildin_written/",
-      "pushed_at": "2026-04-23",
-      "title": "Local manga translator with LLM build-in, written in Rust with llama.cpp integration",
-      "score": 8
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1st35c8/i_tested_qwen3627b_qwen3635ba3b_qwen3527b_and/",
-      "pushed_at": "2026-04-23",
-      "title": "I tested Qwen3.6-27B, Qwen3.6-35B-A3B, Qwen3.5-27B and Gemma 4 on the same real architecture-writing task on an RTX 5090",
-      "score": 8
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1st4cqq/qwen36_35b_the_right_coding_scaffold_got_my_local/",
-      "pushed_at": "2026-04-23",
-      "title": "Qwen3.6 35B + the right coding scaffold got my local setup to 9/10 on real Go tasks",
-      "score": 8
-    },
-    {
-      "url": "https://github.com/langfuse/langfuse",
-      "pushed_at": "2026-04-23",
-      "title": "langfuse/langfuse",
-      "score": 8
-    },
-    {
-      "url": "https://github.com/AIDC-AI/Pixelle-Video",
-      "pushed_at": "2026-04-23",
-      "title": "AIDC-AI/Pixelle-Video",
-      "score": 8
-    },
-    {
-      "url": "https://github.com/vercel-labs/skills",
-      "pushed_at": "2026-04-23",
-      "title": "vercel-labs/skills",
-      "score": 8
-    },
-    {
-      "url": "https://36kr.com/p/3774776026874375?f=rss",
-      "pushed_at": "2026-04-23",
-      "title": "氪星晚报｜快手618商家大会于杭州启动 ；OpenAI据悉正洽谈向一家私募股权合资企业投资至多15亿美元；事关节能降碳工作，中办、国办重磅文件对外发布",
-      "score": 8
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1sslwlt/i_built_an_ios_expense_tracker_that_runs_100/",
-      "pushed_at": "2026-04-23",
-      "title": "I built an iOS expense tracker that runs 100% on-device - no cloud, no subscription, no account. Scans receipts with Apple Intelligence",
-      "score": 7
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1st2dn7/i_built_a_tool_that_tracks_legislation_changes/",
-      "pushed_at": "2026-04-23",
-      "title": "i built a tool that tracks legislation changes across 6 countries and explains what they mean in plain english — free to start",
-      "score": 7
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1ssqdbv/i_didnt_expect_indexing_to_become_the_most/",
-      "pushed_at": "2026-04-23",
-      "title": "I didn’t expect indexing to become the most time‑consuming part of launching a content‑heavy side project",
-      "score": 7
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1st79f4/cartoon_studio_an_opensource_app_for_making_your/",
-      "pushed_at": "2026-04-23",
-      "title": "Cartoon Studio - An open-source app for making your own South Park style Cartoon Show",
-      "score": 7
-    },
-    {
-      "url": "https://www.lennysnewsletter.com/p/what-claude-design-is-actually-good",
-      "pushed_at": "2026-04-23",
-      "title": "What Claude Design is actually good for (and why Figma isn’t dead yet)",
-      "score": 7
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.07877",
-      "pushed_at": "2026-04-23",
-      "title": "Show HN: MemReader: From Passive to Active Extraction for Long-Term Agent Memory",
-      "score": 7
-    },
-    {
-      "url": "https://m8ven.ai/preflight",
-      "pushed_at": "2026-04-23",
-      "title": "Show HN: Preflight – Test your MCP server before submitting to Claude/OpenAI",
-      "score": 7
-    },
-    {
-      "url": "https://github.com/foxtrotcommunications/foxtrotcommunications-forge-core",
-      "pushed_at": "2026-04-23",
-      "title": "Show HN: Forge-Core released on GitHub, Parse JSON in your data warehouse",
-      "score": 7
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ssw45q/dense_vs_moe_gap_is_shrinking_fast_with_the_3627b/",
-      "pushed_at": "2026-04-23",
-      "title": "Dense vs. MoE gap is shrinking fast with the 3.6-27B release",
-      "score": 7
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1st6lp6/nvidia_rtx_3090_vs_intel_arc_pro_b70_llamacpp/",
-      "pushed_at": "2026-04-23",
-      "title": "Nvidia RTX 3090 vs Intel Arc Pro B70 llama.cpp Benchmarks",
-      "score": 7
-    },
-    {
-      "url": "https://github.com/KeygraphHQ/shannon",
-      "pushed_at": "2026-04-23",
-      "title": "KeygraphHQ/shannon",
-      "score": 7
-    },
-    {
-      "url": "https://techcrunch.com/2026/04/22/exclusive-google-deepens-thinking-machines-lab-ties-with-new-multi-billion-dollar-deal/",
-      "pushed_at": "2026-04-23",
-      "title": "Exclusive: Google deepens Thinking Machines Lab ties with new multibillion-dollar deal",
-      "score": 7
-    },
-    {
-      "url": "https://trends.vc/privacy-as-a-service-indie-opportunities-product-bundles-audit-moats/",
-      "pushed_at": "2026-04-23",
-      "title": "Privacy as a Service: Indie Opportunities, Product Bundles, Audit Moats",
-      "score": 7
-    },
-    {
-      "url": "https://36kr.com/p/3778730451391751?f=rss",
-      "pushed_at": "2026-04-23",
-      "title": "36氪首发 | 清华、哈工大团队做灵巧手，成本降到三分之一，三个月融资近亿元",
-      "score": 7
-    },
-    {
-      "url": "https://36kr.com/p/3778135439709446?f=rss",
-      "pushed_at": "2026-04-23",
-      "title": "开年连融两轮的“可以玩的抖音”，又融了5000万美金｜涌现新项目",
-      "score": 7
-    },
-    {
-      "url": "https://36kr.com/p/3778121523025154?f=rss",
-      "pushed_at": "2026-04-23",
-      "title": "一个对话框、一只青蛙、一周4万用户，Ribbi做对了什么？",
-      "score": 7
-    },
-    {
-      "url": "https://36kr.com/p/3777491215913736?f=rss",
-      "pushed_at": "2026-04-23",
-      "title": "具微科技两个月狂揽4轮数亿元融资，产业资本“天团��强势入局 | 36氪首发",
-      "score": 7
-    },
-    {
-      "url": "https://www.ifanr.com/1663315?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "pushed_at": "2026-04-23",
-      "title": "Claude 封号限流砍权益，OpenAI 趁机用 Codex 稳稳接住你",
-      "score": 7
-    },
-    {
-      "url": "https://github.com/open-metadata/OpenMetadata",
-      "pushed_at": "2026-04-23",
-      "title": "open-metadata/OpenMetadata",
-      "score": 6
-    },
-    {
-      "url": "https://github.com/Z4nzu/hackingtool",
-      "pushed_at": "2026-04-23",
-      "title": "Z4nzu/hackingtool",
-      "score": 6
-    },
-    {
       "url": "https://www.lennysnewsletter.com/p/gpt-55-just-did-what-no-other-model",
       "pushed_at": "2026-04-24",
       "title": "GPT 5.5 just did what no other model could",
@@ -15299,6 +15095,168 @@
       "pushed_at": "2026-07-22",
       "title": "刚刚，Gemini 3.6 Flash 正式发布，但网友笑得更大声了",
       "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1v4hn8t/every_free_poker_app_felt_like_a_scam_so_i_built/",
+      "pushed_at": "2026-07-23",
+      "title": "Every free poker app felt like a scam, so I built a clean, open-source one",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1v3yaiy/update_3_months_ago_i_posted_here_about_my_spite/",
+      "pushed_at": "2026-07-23",
+      "title": "Update: 3 months ago I posted here about my 'spite Indeed' job search engine, Dreamwork. Today the recruiting industry's biggest outlet covered it.",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1v4mne6/i_built_an_engine_that_turns_any_website_into_a/",
+      "pushed_at": "2026-07-23",
+      "title": "I built an engine that turns any website into a brand new design system your coding agent actually obeys (my first SaaS)",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1v4skcc/our_users_kept_asking_for_dynamic_email/",
+      "pushed_at": "2026-07-23",
+      "title": "Our users kept asking for dynamic email signatures, so we built them. Here's how it works.",
+      "score": 5
+    },
+    {
+      "url": "https://www.bensbites.com/p/caught-cheating",
+      "pushed_at": "2026-07-23",
+      "title": "Caught cheating",
+      "score": 7
+    },
+    {
+      "url": "https://www.therundown.ai/p/openai-cyber-test-escapes-the-lab",
+      "pushed_at": "2026-07-23",
+      "title": "OpenAI’s cyber test escapes the lab",
+      "score": 6
+    },
+    {
+      "url": "https://www.oneusefulthing.org/p/an-opinionated-guide-to-which-ai-b22",
+      "pushed_at": "2026-07-23",
+      "title": "An opinionated guide to which AI to use to do stuff",
+      "score": 7
+    },
+    {
+      "url": "https://www.latent.space/p/poolside",
+      "pushed_at": "2026-07-23",
+      "title": "Inside the Model Factory — Eiso Kant, Poolside AI",
+      "score": 7
+    },
+    {
+      "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack/#atom-everything",
+      "pushed_at": "2026-07-23",
+      "title": "OpenAI’s accidental cyberattack against Hugging Face is science fiction that happened",
+      "score": 8
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=49028737",
+      "pushed_at": "2026-07-23",
+      "title": "Show HN: Mumble Dictation – local dictation that learns your vocabulary",
+      "score": 6
+    },
+    {
+      "url": "https://github.com/Rentheria/llm-budget-cap",
+      "pushed_at": "2026-07-23",
+      "title": "Show HN: LLM-budget-cap – atomic Redis spend cap for LLM APIs",
+      "score": 5
+    },
+    {
+      "url": "https://github.com/chrisgagne/grounded-forge",
+      "pushed_at": "2026-07-23",
+      "title": "Show HN: Grounded-forge – RAG with summaries and task views precomputed ingest",
+      "score": 8
+    },
+    {
+      "url": "https://github.com/grandimam/zinda",
+      "pushed_at": "2026-07-23",
+      "title": "Show HN: Experimental freshness-first caching library for FastAPI",
+      "score": 5
+    },
+    {
+      "url": "https://cobaltcode.ai/",
+      "pushed_at": "2026-07-23",
+      "title": "Show HN: CobaltCode – Dedicated persistent computer for Codex",
+      "score": 5
+    },
+    {
+      "url": "https://github.com/iBala/open-artifact",
+      "pushed_at": "2026-07-23",
+      "title": "Show HN: Open-artifact – view and share your LLM docs and artifacts",
+      "score": 6
+    },
+    {
+      "url": "https://github.com/ruvnet/RuView",
+      "pushed_at": "2026-07-23",
+      "title": "ruvnet/RuView",
+      "score": 6
+    },
+    {
+      "url": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/",
+      "pushed_at": "2026-07-23",
+      "title": "AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing",
+      "score": 5
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/",
+      "pushed_at": "2026-07-23",
+      "title": "How AI helps scientists design the next generation of medicines",
+      "score": 7
+    },
+    {
+      "url": "https://36kr.com/p/3908027308823684?f=rss",
+      "pushed_at": "2026-07-23",
+      "title": "网格智算：“不堆算力”的AI大脑如何填补林下场景空白 | 水下项目",
+      "score": 5
+    },
+    {
+      "url": "https://36kr.com/p/3907953777120385?f=rss",
+      "pushed_at": "2026-07-23",
+      "title": "专访郭列：做出脸萌、FaceU、剪映等爆款后，他第一次阐释如何在AI时代做产品",
+      "score": 7
+    },
+    {
+      "url": "https://36kr.com/p/3907676111983745?f=rss",
+      "pushed_at": "2026-07-23",
+      "title": "不拼通用能力、聚焦端侧，腾讯副总裁林松涛：Marvis专注做好系统级操作",
+      "score": 7
+    },
+    {
+      "url": "https://36kr.com/p/3906474040153220?f=rss",
+      "pushed_at": "2026-07-23",
+      "title": "硬氪首发 | 大疆系AI自然探索公司获五源、顺为投资，首创水下光学系统",
+      "score": 7
+    },
+    {
+      "url": "https://36kr.com/p/3907532622648453?f=rss",
+      "pushed_at": "2026-07-23",
+      "title": "36氪首发 | 同济博士做几何、物理AI重构设计制造，累计获超3亿元融资",
+      "score": 8
+    },
+    {
+      "url": "https://36kr.com/newsflashes/3908211008050567?f=rss",
+      "pushed_at": "2026-07-23",
+      "title": "黑石集团依托人工智能投资利润大幅飙升",
+      "score": 8
+    },
+    {
+      "url": "https://www.ifanr.com/1672867?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "pushed_at": "2026-07-23",
+      "title": "苹果 Mac 将迎来全线换代，一种给人用，一种给 AI 用",
+      "score": 8
+    },
+    {
+      "url": "https://www.ifanr.com/1672800?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "pushed_at": "2026-07-23",
+      "title": "Kimi 叫停新订阅后，如何用上 K3｜实测避坑",
+      "score": 9
+    },
+    {
+      "url": "https://www.ifanr.com/1672824?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "pushed_at": "2026-07-23",
+      "title": "三步爆改旧鼠标，打造最好用的 AI 外挂｜AI 器物志",
+      "score": 9
     }
   ]
 }
