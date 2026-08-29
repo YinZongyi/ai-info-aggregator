@@ -10115,6 +10115,66 @@
       "pushed_at": "2026-08-29",
       "title": "Show HN: SlideX – Open-source presentations with MDX",
       "score": 5
+    },
+    {
+      "url": "http://www.geekpark.net/news/369550",
+      "pushed_at": "2026-08-29",
+      "title": "腾讯重金投入 AI 之后，混元 Hy4 preview 交出了什么答卷",
+      "score": 9
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1w21hj3/opencontext_a_zerocloud_plainmarkdown_context/",
+      "pushed_at": "2026-08-29",
+      "title": "OpenContext: A zero-cloud, plain-markdown context store for AI agents via Model Context Protocol (MIT)",
+      "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1w1zx3v/i_opensourced_the_boring_parts_of_my_local_ai/",
+      "pushed_at": "2026-08-29",
+      "title": "I open-sourced the boring parts of my local AI Android app",
+      "score": 8
+    },
+    {
+      "url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "pushed_at": "2026-08-29",
+      "title": "bilawalsidhu/gods-eye-view",
+      "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1w1llvq/i_built_a_tool_that_generates_normal_maps_for/",
+      "pushed_at": "2026-08-29",
+      "title": "I built a tool that generates normal maps for pixel art so sprites react to dynamic light",
+      "score": 7
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1w1lgjd/i_built_a_vs_code_extension_for_managing_prompt/",
+      "pushed_at": "2026-08-29",
+      "title": "I Built a VS Code extension for managing prompt libraries without context switching",
+      "score": 7
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1w1wi1b/i_built_a_free_tool_that_turns_nasas_moon_model/",
+      "pushed_at": "2026-08-29",
+      "title": "I built a free tool that turns NASA's moon model into a flyable 3D animation (would love feedback)",
+      "score": 5
+    },
+    {
+      "url": "https://github.com/rysh-ai/rysh-cli-code",
+      "pushed_at": "2026-08-29",
+      "title": "Show HN: AI Harness that lets a graph of Codex and Claude intercommunicate",
+      "score": 5
+    },
+    {
+      "url": "https://github.com/marin-community/marin",
+      "pushed_at": "2026-08-29",
+      "title": "marin-community/marin",
+      "score": 5
+    },
+    {
+      "url": "https://www.qbitai.com/2026/08/481223.html",
+      "pushed_at": "2026-08-29",
+      "title": "Claude开始训练Claude！4美元一小时，跑赢150美元人类研究员",
+      "score": 5
     }
   ]
 }
