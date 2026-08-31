@@ -1,282 +1,6 @@
 {
   "pushed": [
     {
-      "url": "https://www.reddit.com/r/SideProject/comments/1tsujcq/i_built_an_tool_to_apply_to_jobs_for_me_while_i/",
-      "pushed_at": "2026-05-31",
-      "title": "I built an tool to apply to jobs for me while I sleep (lol) Went from 1 interview a month to 19 in a week.",
-      "score": 6
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1tt4ldu/i_got_tired_of_saying_i_dont_know_to_my_cousins/",
-      "pushed_at": "2026-05-31",
-      "title": "I got tired of saying \"I don't know\" to my cousin's questions, so I built something that turns them into comics",
-      "score": 5
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1tt5iow/open_source_html_to_pdfua3_converter/",
-      "pushed_at": "2026-05-31",
-      "title": "Open source HTML to PDF/UA-3 converter",
-      "score": 8
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1tt0y4l/i_built_daytrail_because_time_trackers_miss_the/",
-      "pushed_at": "2026-05-31",
-      "title": "I built DayTrail because time trackers miss the real story",
-      "score": 6
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1tta10e/i_built_lyriq_a_songwriting_workspace_for_artists/",
-      "pushed_at": "2026-05-31",
-      "title": "I built LyriQ, a songwriting workspace for artists who get stuck on lyrics",
-      "score": 5
-    },
-    {
-      "url": "https://github.com/viggy28/streambed",
-      "pushed_at": "2026-05-31",
-      "title": "Show HN: Streambed – Stream Postgres to Iceberg on S3, Supports Postgres Wire",
-      "score": 6
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tss9nq/stepfun_37_flash_is_very_good/",
-      "pushed_at": "2026-05-31",
-      "title": "Stepfun 3.7 Flash is very good",
-      "score": 5
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tt6oja/i_ported_nvidia_parakeet_speechtotext_to_ggml/",
-      "pushed_at": "2026-05-31",
-      "title": "I ported NVIDIA Parakeet (speech-to-text) to ggml: same output as NeMo, faster, GGUF-quantized, no Python",
-      "score": 8
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tsvs3j/13_abliterated_gemma_4_e2b_variants_44_gpu_hours/",
-      "pushed_at": "2026-05-31",
-      "title": "13 abliterated Gemma 4 E2B variants, 44 GPU hours, Benchmark and Comparison - Abliterlitics",
-      "score": 8
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tt4pag/llama_studio_v020/",
-      "pushed_at": "2026-05-31",
-      "title": "Llama Studio v0.2.0",
-      "score": 7
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tsxul2/added_an_old_2070_super_to_my_rig_and_i_cant_go/",
-      "pushed_at": "2026-05-31",
-      "title": "Added an old 2070 Super to my rig and I can't go back...worse, now I need more",
-      "score": 7
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tszlsa/qwen3635b_vs_gemma426b_on_7900_xtx/",
-      "pushed_at": "2026-05-31",
-      "title": "Qwen3.6-35B vs Gemma4-26B on 7900 XTX",
-      "score": 8
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tt50bu/whats_actually_happening_when_a_model_spills_out/",
-      "pushed_at": "2026-05-31",
-      "title": "Whats actually happening when a model spills out of VRAM into system memory?",
-      "score": 6
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tsifgs/dell_confirms_xps_laptop_with_nvidia_n1x_at/",
-      "pushed_at": "2026-05-31",
-      "title": "Dell confirms XPS laptop with NVIDIA N1X at Computex ( basically a DGX Spark GB10 for consumers with Windows )",
-      "score": 5
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tshmxa/my_home_data_center/",
-      "pushed_at": "2026-05-31",
-      "title": "My home data center",
-      "score": 5
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tss1ca/flash_attention_for_llamacpp_on_rdna3_47_less_kv/",
-      "pushed_at": "2026-05-31",
-      "title": "Flash Attention for llama.cpp on RDNA3: 47% less KV VRAM than Vulkan f16 K, KLD almost losselss on F16 K / q4_0 V. Part 1.",
-      "score": 9
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tsrpn4/think_toggle_button_for_llamacp_web_chat_for/",
-      "pushed_at": "2026-05-31",
-      "title": "<Think> toggle button for llama.cp web chat for QWEN3.6",
-      "score": 7
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tslv3b/mudlerqwen3635ba3bclaude47opusreasoningdistilledap/",
-      "pushed_at": "2026-05-31",
-      "title": "mudler/Qwen3.6-35B-A3B-Claude-4.7-Opus-Reasoning-Distilled-APEX-MTP-GGUF just released !",
-      "score": 6
-    },
-    {
-      "url": "https://github.com/FareedKhan-dev/train-llm-from-scratch",
-      "pushed_at": "2026-05-31",
-      "title": "FareedKhan-dev/train-llm-from-scratch",
-      "score": 8
-    },
-    {
-      "url": "https://github.com/dreammis/social-auto-upload",
-      "pushed_at": "2026-05-31",
-      "title": "dreammis/social-auto-upload",
-      "score": 8
-    },
-    {
-      "url": "https://36kr.com/newsflashes/3832585694193541?f=rss",
-      "pushed_at": "2026-05-31",
-      "title": "软银承诺斥资750亿欧元在法国建设人工智能设施",
-      "score": 6
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1tu4904/built_an_ai_slopfree_social_platform_where_ad/",
-      "pushed_at": "2026-06-01",
-      "title": "Built an AI slop-free social platform where ad revenue funds charities. 6,000+ signups so far.",
-      "score": 5
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1tu6zj9/i_built_coil_a_free_open_source_gpu_monitor_for/",
-      "pushed_at": "2026-06-01",
-      "title": "I built coil — a free open source GPU monitor for the terminal. Press S and it exports your stats as a Windows XP screenshot.",
-      "score": 7
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1tu65kt/building_orka_a_control_layer_that_stops_ai/",
-      "pushed_at": "2026-06-01",
-      "title": "Building Orka a control layer that stops AI agents before they do something destructive",
-      "score": 5
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1tu4kcm/guys_900_users/",
-      "pushed_at": "2026-06-01",
-      "title": "GUYS, 900 USERS 🤩",
-      "score": 6
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1tu8wv3/just_shipped_a_budgeting_app_that_shows_costs_in/",
-      "pushed_at": "2026-06-01",
-      "title": "Just shipped a budgeting app that shows costs in hours of your life, not money",
-      "score": 6
-    },
-    {
-      "url": "https://www.reddit.com/r/Entrepreneur/comments/1ttyne7/i_failed_on_my_second_saas_building_i_dropped_my/",
-      "pushed_at": "2026-06-01",
-      "title": "I failed on my second SaaS building, I dropped my SaaS after 0 dollar revenue.",
-      "score": 5
-    },
-    {
-      "url": "https://www.lennysnewsletter.com/p/how-i-ai-codex-goals-explained-and",
-      "pushed_at": "2026-06-01",
-      "title": "🎙️ How I AI: Codex Goals explained & Claude Opus 4.8 review & Building an iPhone app with zero technical skills",
-      "score": 9
-    },
-    {
-      "url": "https://www.lennysnewsletter.com/p/building-an-iphone-app-with-zero",
-      "pushed_at": "2026-06-01",
-      "title": "Building an iPhone app with zero technical skills | Bryce Rattner Keithley",
-      "score": 8
-    },
-    {
-      "url": "https://simonwillison.net/2026/Jun/1/hackers-simply-asked-meta-ai/#atom-everything",
-      "pushed_at": "2026-06-01",
-      "title": "Hackers Simply Asked Meta AI to Give Them Access to High-Profile Instagram Accounts. It Worked",
-      "score": 6
-    },
-    {
-      "url": "https://github.com/cadamsdotcom/offlinerss",
-      "pushed_at": "2026-06-01",
-      "title": "Show HN: Hacker News and Lobsters RSS, repackaged for offline reading",
-      "score": 5
-    },
-    {
-      "url": "https://github.com/cnygaard/glq",
-      "pushed_at": "2026-06-01",
-      "title": "Show HN: Glq LLM quantization using E8 lattice",
-      "score": 6
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ttvpmt/llama_limit_max_outputs_of_llama_context_by/",
-      "pushed_at": "2026-06-01",
-      "title": "llama: limit max outputs of `llama_context` by am17an · Pull Request #23861 · ggml-org/llama.cpp",
-      "score": 5
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tu44z9/icym_llamacpp_b9455_sm_tensor_kv_cache_fix_is/",
-      "pushed_at": "2026-06-01",
-      "title": "ICYM: llama.cpp b9455 --SM Tensor KV Cache Fix is MERGED",
-      "score": 5
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tts4f7/mellum_2_12b_a25b/",
-      "pushed_at": "2026-06-01",
-      "title": "Mellum 2 12B A2.5B",
-      "score": 6
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tttevw/mistralrs_v082_up_to_28x_faster_cuda_inference/",
-      "pushed_at": "2026-06-01",
-      "title": "mistral.rs v0.8.2: up to 2.8x faster CUDA inference than llama.cpp on GB10, B200, and H100",
-      "score": 8
-    },
-    {
-      "url": "https://github.com/nesquena/hermes-webui",
-      "pushed_at": "2026-06-01",
-      "title": "nesquena/hermes-webui",
-      "score": 7
-    },
-    {
-      "url": "https://github.com/OpenBMB/VoxCPM",
-      "pushed_at": "2026-06-01",
-      "title": "OpenBMB/VoxCPM",
-      "score": 7
-    },
-    {
-      "url": "https://github.com/supermemoryai/supermemory",
-      "pushed_at": "2026-06-01",
-      "title": "supermemoryai/supermemory",
-      "score": 9
-    },
-    {
-      "url": "https://github.com/nicobailon/pi-subagents",
-      "pushed_at": "2026-06-01",
-      "title": "nicobailon/pi-subagents",
-      "score": 7
-    },
-    {
-      "url": "https://36kr.com/p/3834544830721671?f=rss",
-      "pushed_at": "2026-06-01",
-      "title": "豆包6月下旬正式付费，并加速打通抖音电商丨独家",
-      "score": 8
-    },
-    {
-      "url": "https://36kr.com/p/3834427736024965?f=rss",
-      "pushed_at": "2026-06-01",
-      "title": "硬氪首发 | 获近2亿元融资，这家公司用无损Micro-LED加速AI眼镜全彩化进程",
-      "score": 7
-    },
-    {
-      "url": "https://36kr.com/p/3834310434875011?f=rss",
-      "pushed_at": "2026-06-01",
-      "title": "连续完成五源、峰瑞两轮数千万元融资，清华00后团队要解决Token账单焦虑｜智能涌现首发",
-      "score": 6
-    },
-    {
-      "url": "https://36kr.com/p/3833985105782402?f=rss",
-      "pushed_at": "2026-06-01",
-      "title": "硬氪观察 | 苹果代工厂开造人形机器人，一场豪赌未来的产能大迁移",
-      "score": 8
-    },
-    {
-      "url": "https://36kr.com/newsflashes/3835218139346055?f=rss",
-      "pushed_at": "2026-06-01",
-      "title": "智谱：建议A股发行并在科创板上市",
-      "score": 5
-    },
-    {
-      "url": "https://www.ifanr.com/1667680?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "pushed_at": "2026-06-01",
-      "title": "任务成本仅为Claude Opus 4.6 1/9，阶跃刷新Flash模型效率",
-      "score": 6
-    },
-    {
       "url": "https://www.reddit.com/r/SideProject/comments/1tuz231/not_an_exciting_site_but_real_local_business/",
       "pushed_at": "2026-06-02",
       "title": "Not an exciting site, but real local business owners say it actually solves a stressful problem for them",
@@ -10174,6 +9898,48 @@
       "url": "https://www.qbitai.com/2026/08/481223.html",
       "pushed_at": "2026-08-29",
       "title": "Claude开始训练Claude！4美元一小时，跑赢150美元人类研究员",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1w2h26m/started_this_side_project_in_january_for_my_own/",
+      "pushed_at": "2026-08-31",
+      "title": "Started this side project in January for my own itch. Just crossed 10k revenue",
+      "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1w2tzu7/i_made_my_first_python_library_it_doesnt_have_a/",
+      "pushed_at": "2026-08-31",
+      "title": "I made my first python library (it doesn't have a ton of features but i think it can be useful for some people)",
+      "score": 8
+    },
+    {
+      "url": "https://github.com/JetBrains/go-modern-guidelines",
+      "pushed_at": "2026-08-31",
+      "title": "JetBrains/go-modern-guidelines",
+      "score": 8
+    },
+    {
+      "url": "https://github.com/kaifcodec/user-scanner",
+      "pushed_at": "2026-08-31",
+      "title": "kaifcodec/user-scanner",
+      "score": 8
+    },
+    {
+      "url": "https://github.com/THU-MAIC/OpenMAIC",
+      "pushed_at": "2026-08-31",
+      "title": "THU-MAIC/OpenMAIC",
+      "score": 7
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1w2d93g/i_got_my_first_app_to_5k_in_just_4_months_with_0/",
+      "pushed_at": "2026-08-31",
+      "title": "I got my first app to +5k in just 4 months, with 0 followers",
+      "score": 6
+    },
+    {
+      "url": "https://www.lennysnewsletter.com/p/ais-third-era-the-rise-of-persistent",
+      "pushed_at": "2026-08-31",
+      "title": "AI’s third era: the rise of persistent AI coworkers | Tara Seshan (OpenAI’s product lead)",
       "score": 5
     }
   ]
