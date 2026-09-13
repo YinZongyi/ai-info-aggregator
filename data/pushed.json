@@ -1,66 +1,6 @@
 {
   "pushed": [
     {
-      "url": "https://www.reddit.com/r/SideProject/comments/1u5y4ku/i_built_a_free_opensource_flashcard_app_for/",
-      "pushed_at": "2026-06-14",
-      "title": "I built a free, open-source flashcard app for language learning that imports your Anki decks",
-      "score": 8
-    },
-    {
-      "url": "https://github.com/andrewyng/aisuite",
-      "pushed_at": "2026-06-14",
-      "title": "andrewyng/aisuite",
-      "score": 8
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1u5v9im/phone_camera_turn_your_iphone_into_a_lowlatency/",
-      "pushed_at": "2026-06-14",
-      "title": "PHONE_CAMERA — turn your iPhone into a low-latency PC webcam over WebRTC. No app, no Mac. Free / MIT",
-      "score": 7
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1u5k8qc/how_i_created_license_plate_generator_and/",
-      "pushed_at": "2026-06-14",
-      "title": "How I created License Plate generator and dominated Google Search",
-      "score": 6
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1u5pco3/learned_the_hard_way_building_for_a_problem_you/",
-      "pushed_at": "2026-06-14",
-      "title": "Learned the hard way: Building for a problem you don't feel yourself is a recipe for failure (my pivot story with Xoru)",
-      "score": 6
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1u5whbf/ive_been_solobuilding_an_antislack_for_2_years/",
-      "pushed_at": "2026-06-14",
-      "title": "i've been solo-building an anti-Slack for 2 years. just shipped 9 features in 3 weeks - AI calls, workflows, import from 8 tools",
-      "score": 5
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1u5meid/i_built_a_native_mac_app_that_shows_what_claude/",
-      "pushed_at": "2026-06-14",
-      "title": "I built a native Mac app that shows what Claude Code is doing in real time",
-      "score": 5
-    },
-    {
-      "url": "https://ampledata.io",
-      "pushed_at": "2026-06-14",
-      "title": "Show HN: AI Cell Enrichment Workflow API",
-      "score": 5
-    },
-    {
-      "url": "https://github.com/softcane/cc-session-recover",
-      "pushed_at": "2026-06-14",
-      "title": "Show HN: I hate typing continue once my CC quota resets",
-      "score": 5
-    },
-    {
-      "url": "https://36kr.com/newsflashes/3852722264101889?f=rss",
-      "pushed_at": "2026-06-14",
-      "title": "SK海力士去年新增员工超2000人",
-      "score": 5
-    },
-    {
       "url": "https://www.lennysnewsletter.com/p/how-i-ai-claude-fable-5-review-and",
       "pushed_at": "2026-06-15",
       "title": "🎙️ How I AI: Claude Fable 5 review & How Braintrust uses AI agents, evals, and CI to ship better software",
@@ -8392,6 +8332,48 @@
       "url": "https://kvetch.io/conciliatower/",
       "pushed_at": "2026-09-12",
       "title": "Show HN: SimTower, Decompiled, Rewritten, and in the Browser",
+      "score": 5
+    },
+    {
+      "url": "https://github.com/multimodal-art-projection/YuE",
+      "pushed_at": "2026-09-13",
+      "title": "multimodal-art-projection/YuE",
+      "score": 8
+    },
+    {
+      "url": "https://simonwillison.net/2026/Sep/12/astra-running-routes/",
+      "pushed_at": "2026-09-13",
+      "title": "Generating running routes with GPT-6 Astra and ChatGPT Work",
+      "score": 7
+    },
+    {
+      "url": "https://github.com/max-sixty/worktrunk",
+      "pushed_at": "2026-09-13",
+      "title": "max-sixty/worktrunk",
+      "score": 7
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1wfer27/built_a_note_app_for_myself_posted_it_and_got/",
+      "pushed_at": "2026-09-13",
+      "title": "Built a note app for myself, posted it and got zero response. Kept building anyway. Here's what happened.",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1wfmst3/i_was_tired_of_news_sites_treating_every_article/",
+      "pushed_at": "2026-09-13",
+      "title": "I was tired of news sites treating every article like a separate story, so I built a site that groups coverage into evolving stories",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1wfcvai/built_an_app_that_turns_road_trip_boredom_into_an/",
+      "pushed_at": "2026-09-13",
+      "title": "Built an app that turns road trip boredom into an actual audio tour — here's what I learned building it",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1wflb3d/i_wanted_to_figure_out_how_to_fit_a_house_on_my/",
+      "pushed_at": "2026-09-13",
+      "title": "I wanted to figure out how to fit a house on my plot, so I built a simple 3D site planner",
       "score": 5
     }
   ]
