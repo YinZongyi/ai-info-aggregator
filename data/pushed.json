@@ -1,282 +1,6 @@
 {
   "pushed": [
     {
-      "url": "https://www.lennysnewsletter.com/p/how-claude-mythos-found-a-15-year",
-      "pushed_at": "2026-06-22",
-      "title": "How Claude Mythos found a 15-year-old bug in Mozilla Firefox | Brian Grinstead",
-      "score": 9
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1ucjhmi/i_built_facegate_worlds_first_macos_app_locker/",
-      "pushed_at": "2026-06-22",
-      "title": "I built FaceGate — World's first macOS app locker with on-device Face Unlock (Open Source)",
-      "score": 8
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1uctzqj/couldnt_dictate_into_a_terminal_so_i_built_free/",
-      "pushed_at": "2026-06-22",
-      "title": "Couldn't dictate into a terminal, so I built free open-source voice typing for Windows over a weekend",
-      "score": 8
-    },
-    {
-      "url": "https://github.com/asgeirtj/system_prompts_leaks",
-      "pushed_at": "2026-06-22",
-      "title": "asgeirtj/system_prompts_leaks",
-      "score": 7
-    },
-    {
-      "url": "https://techcrunch.com/2026/06/22/spacex-inks-compute-deal-with-reflection-ai-an-open-source-ai-lab/",
-      "pushed_at": "2026-06-22",
-      "title": "SpaceX inks compute deal with Reflection AI, an open source AI lab",
-      "score": 7
-    },
-    {
-      "url": "https://36kr.com/p/3864071269569540?f=rss",
-      "pushed_at": "2026-06-22",
-      "title": "映界科技：一支00后团队的空间智能“赌注” | 水下项目",
-      "score": 7
-    },
-    {
-      "url": "https://www.ifanr.com/1669522?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "pushed_at": "2026-06-22",
-      "title": "微信终于要给 AI 手机开门了｜AI 器物志",
-      "score": 7
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1ucxowb/one_year_progress/",
-      "pushed_at": "2026-06-22",
-      "title": "One year progress",
-      "score": 6
-    },
-    {
-      "url": "https://popflame.quickish.space/blog/localish-your-localhost-on-the-cloud/",
-      "pushed_at": "2026-06-22",
-      "title": "Show HN: Localish – Your Localhost in the Cloud",
-      "score": 6
-    },
-    {
-      "url": "https://github.com/topoteretes/cognee",
-      "pushed_at": "2026-06-22",
-      "title": "topoteretes/cognee",
-      "score": 6
-    },
-    {
-      "url": "https://36kr.com/newsflashes/3864949184484611?f=rss",
-      "pushed_at": "2026-06-22",
-      "title": "英伟达宣布Vera Rubin NVL4系统Q4起供货",
-      "score": 6
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1ucumez/built_an_ai_interviewer_that_tests_everyone_on/",
-      "pushed_at": "2026-06-22",
-      "title": "Built an AI interviewer that tests everyone on their own claims, not a generic script",
-      "score": 5
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1ud055y/i_built_a_windows_ai_app_that_runs_3_local_models/",
-      "pushed_at": "2026-06-22",
-      "title": "I built a Windows AI app that runs 3 local models in a \"council\" — they debate your question and vote on the best answer",
-      "score": 5
-    },
-    {
-      "url": "https://www.therundown.ai/p/google-s-nobel-winner-jumps-to-anthropic",
-      "pushed_at": "2026-06-22",
-      "title": "Google's Nobel winner jumps to Anthropic",
-      "score": 5
-    },
-    {
-      "url": "https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/",
-      "pushed_at": "2026-06-22",
-      "title": "Three things to watch amid Anthropic’s latest feud with the government",
-      "score": 5
-    },
-    {
-      "url": "https://36kr.com/p/3863883390194692?f=rss",
-      "pushed_at": "2026-06-22",
-      "title": "36氪首发 | 核心团队曾攻关国家重点大飞机装配，航空航天智能装备商完成数千万元融资",
-      "score": 5
-    },
-    {
-      "url": "https://36kr.com/newsflashes/3864949997458693?f=rss",
-      "pushed_at": "2026-06-22",
-      "title": "英伟达发布Halos机器人安全系统，推进Physical AI落地",
-      "score": 5
-    },
-    {
-      "url": "https://www.ifanr.com/1669508?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "pushed_at": "2026-06-22",
-      "title": "华为和 Google 都在抢！手机小组件，为什么是 AI 必争之地？｜AI 器物志",
-      "score": 5
-    },
-    {
-      "url": "https://simonwillison.net/2026/Jun/22/porting-moebius/#atom-everything",
-      "pushed_at": "2026-06-23",
-      "title": "Porting the Moebius 0.2B image inpainting model to run in the browser with Claude Code",
-      "score": 9
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1udvi32/built_a_chrome_extension_that_pays_users_to_watch/",
-      "pushed_at": "2026-06-23",
-      "title": "Built a Chrome extension that pays users to watch ads they actually choose. Here is what we learned after 10,000 users and 60+ brand partners",
-      "score": 8
-    },
-    {
-      "url": "https://www.latent.space/p/ainews-spacex-is-already-a-28byr",
-      "pushed_at": "2026-06-23",
-      "title": "[AINews] SpaceX is already a $28B/yr Neocloud",
-      "score": 8
-    },
-    {
-      "url": "https://github.com/heygen-com/hyperframes",
-      "pushed_at": "2026-06-23",
-      "title": "heygen-com/hyperframes",
-      "score": 8
-    },
-    {
-      "url": "https://github.com/JCodesMore/ai-website-cloner-template",
-      "pushed_at": "2026-06-23",
-      "title": "JCodesMore/ai-website-cloner-template",
-      "score": 8
-    },
-    {
-      "url": "https://www.ifanr.com/1669752?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "pushed_at": "2026-06-23",
-      "title": "刚刚，Seedance 2.5 正式发布，国产视频模型再次捅破天花板",
-      "score": 8
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1uds7b7/trying_to_solve_the_infrastructure_problem_for/",
-      "pushed_at": "2026-06-23",
-      "title": "Trying to solve the infrastructure problem for vibe coders",
-      "score": 7
-    },
-    {
-      "url": "https://simonwillison.net/2026/Jun/22/prompt-injection-as-role-confusion/#atom-everything",
-      "pushed_at": "2026-06-23",
-      "title": "Prompt Injection as Role Confusion",
-      "score": 7
-    },
-    {
-      "url": "https://github.com/firecrawl/firecrawl",
-      "pushed_at": "2026-06-23",
-      "title": "firecrawl/firecrawl",
-      "score": 7
-    },
-    {
-      "url": "https://36kr.com/p/3865630193030145?f=rss",
-      "pushed_at": "2026-06-23",
-      "title": "圆桌论坛：比共识更早一步 AI 创投的真实棋局 | 2026WAVES",
-      "score": 7
-    },
-    {
-      "url": "https://www.therundown.ai/p/sakana-fugu-takes-aim-at-the-frontier",
-      "pushed_at": "2026-06-23",
-      "title": "Sakana’s Fugu takes aim at the frontier",
-      "score": 6
-    },
-    {
-      "url": "https://www.ifanr.com/1669694?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "pushed_at": "2026-06-23",
-      "title": "微信 AI 全网最细体验，我又爱上了刷朋友圈",
-      "score": 6
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1udrjfh/i_built_an_app_that_checks_decisions_against_your/",
-      "pushed_at": "2026-06-23",
-      "title": "I built an app that checks decisions against your own principles, not averaged AI advice",
-      "score": 5
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1udtyh7/made_my_first_sale_from_my_project/",
-      "pushed_at": "2026-06-23",
-      "title": "Made my first sale from my project",
-      "score": 5
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1udsbsk/guideanywhere_listen_local_story_in_anywhere_a/",
-      "pushed_at": "2026-06-23",
-      "title": "GuideAnywhere. Listen Local Story in Anywhere. A mobile app for travellers and history lovers",
-      "score": 5
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1udcqgr/i_built_auditmetric_a_free_website_auditor_with/",
-      "pushed_at": "2026-06-23",
-      "title": "I built AuditMetric: A free website auditor with unlimited CVE security checks. No monthly subscription.",
-      "score": 5
-    },
-    {
-      "url": "https://www.bensbites.com/p/record-a-skill",
-      "pushed_at": "2026-06-23",
-      "title": "Record a skill",
-      "score": 5
-    },
-    {
-      "url": "https://simonwillison.net/2026/Jun/23/opfs-pyodide/#atom-everything",
-      "pushed_at": "2026-06-23",
-      "title": "OPFS + Pyodide test harness",
-      "score": 5
-    },
-    {
-      "url": "https://answerjournal.com/",
-      "pushed_at": "2026-06-23",
-      "title": "Show HN: AnswerJournal – An MCP server to save and share AI answers",
-      "score": 5
-    },
-    {
-      "url": "https://github.com/allenv0/AirPosture",
-      "pushed_at": "2026-06-23",
-      "title": "Show HN: AirPosture – Open-Source Posture Coach Using AirPods",
-      "score": 5
-    },
-    {
-      "url": "https://github.com/kjhq/linkedin-unfiltered",
-      "pushed_at": "2026-06-23",
-      "title": "Show HN: LinkedIn Unfiltered: Translate corpo to human",
-      "score": 5
-    },
-    {
-      "url": "https://github.com/singam96/ReflexConv2D",
-      "pushed_at": "2026-06-23",
-      "title": "Show HN: ReflexConv2d – 57% less blur in image reconstruction",
-      "score": 5
-    },
-    {
-      "url": "https://news.ycombinator.com/item?id=48650494",
-      "pushed_at": "2026-06-23",
-      "title": "Show HN: Browse design inspiration from terminal while Claude is thinking",
-      "score": 5
-    },
-    {
-      "url": "https://www.technologyreview.com/2026/06/23/1138837/asml-400-million-dollar-machine-powering-future-of-chipmaking/",
-      "pushed_at": "2026-06-23",
-      "title": "The $400 million machine powering the future of chipmaking",
-      "score": 5
-    },
-    {
-      "url": "https://www.qbitai.com/2026/06/437694.html",
-      "pushed_at": "2026-06-23",
-      "title": "正行创新完成近亿美元天使轮融资，正大集团、华勤技术等多家上市企业联合加持",
-      "score": 5
-    },
-    {
-      "url": "https://36kr.com/p/3865523201692931?f=rss",
-      "pushed_at": "2026-06-23",
-      "title": "主题圆桌：从无声到轰鸣，令人期待的消费硬件 | WAVES2026",
-      "score": 5
-    },
-    {
-      "url": "https://36kr.com/newsflashes/3865693424997637?f=rss",
-      "pushed_at": "2026-06-23",
-      "title": "兆丰股份：拟募资不超14亿元用于具身智能机器人和汽车智驾高端精密部件产业化项目等",
-      "score": 5
-    },
-    {
-      "url": "https://www.ifanr.com/1669670?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "pushed_at": "2026-06-23",
-      "title": "对话蔚来高级副总裁任少卿：一个世界模型，如何适配两套芯片、四个平台和十几款车？",
-      "score": 5
-    },
-    {
       "url": "https://www.lennysnewsletter.com/p/glm-52-why-im-replacing-opus-in-claude",
       "pushed_at": "2026-06-24",
       "title": "GLM 5.2: why I’m replacing Opus in Claude Code with this new model",
@@ -7900,6 +7624,84 @@
       "url": "https://www.ifanr.com/1681137?utm_source=rss&utm_medium=rss&utm_campaign=",
       "pushed_at": "2026-09-20",
       "title": "19999 元起，启元机器人想把「个人机器人」先卖进普通人的生活",
+      "score": 5
+    },
+    {
+      "url": "https://simonwillison.net/2026/Sep/21/jev/",
+      "pushed_at": "2026-09-22",
+      "title": "Jev introduces a new shape of LLM - System One, aka Decision Models",
+      "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wmbbf9/splash_engine_qwen3827b_in_native_8bit_at_3755/",
+      "pushed_at": "2026-09-22",
+      "title": "[Splash Engine] Qwen3.8-27B in native 8-bit at 37–55 tok/s on Apple Silicon: Extending Splash to Q8, 256k context scaling, and the \"Reasoning Cliff\"",
+      "score": 8
+    },
+    {
+      "url": "https://github.com/vercel-labs/json-render",
+      "pushed_at": "2026-09-22",
+      "title": "vercel-labs/json-render",
+      "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1wmqh6y/i_built_backplane_for_my_own_company_today_were/",
+      "pushed_at": "2026-09-22",
+      "title": "I built Backplane for my own company. Today, we're open-sourcing it.",
+      "score": 7
+    },
+    {
+      "url": "https://github.com/BuilderIO/agent-native",
+      "pushed_at": "2026-09-22",
+      "title": "BuilderIO/agent-native",
+      "score": 7
+    },
+    {
+      "url": "https://github.com/trycua/cua",
+      "pushed_at": "2026-09-22",
+      "title": "trycua/cua",
+      "score": 7
+    },
+    {
+      "url": "https://github.com/anthropics/financial-services",
+      "pushed_at": "2026-09-22",
+      "title": "anthropics/financial-services",
+      "score": 7
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1wmtdv6/i_built_an_ios_app_that_turns_a_workout_video/",
+      "pushed_at": "2026-09-22",
+      "title": "I built an iOS app that turns a workout video link into an illustrated, voice-guided routine",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1wmk5lc/i_spent_3_years_solobuilding_a_full_multitenant/",
+      "pushed_at": "2026-09-22",
+      "title": "I spent ~3 years solo-building a full multi-tenant iGaming platform (Ethosino) — it’s finally finished and I’m looking for the first pilot operator",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1wmhwu6/i_built_a_daily_selfie_timelapse_app_the_hard/",
+      "pushed_at": "2026-09-22",
+      "title": "I built a daily selfie timelapse app. The hard part wasn't the camera, it was making 365 photos line up",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wmtjqu/mimov26_distilled_themselves_into_qwen_9b/",
+      "pushed_at": "2026-09-22",
+      "title": "MiMo-V2.6 distilled themselves into Qwen 9B!",
+      "score": 5
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/",
+      "pushed_at": "2026-09-22",
+      "title": "4 ways to address the failures we found along the US border’s “virtual wall”",
+      "score": 5
+    },
+    {
+      "url": "http://www.geekpark.net/news/370717",
+      "pushed_at": "2026-09-22",
+      "title": "对话桥介数物：机器人运动的下一步是让任何机器人半小时内学会跳特定的舞",
       "score": 5
     }
   ]
