@@ -1,240 +1,6 @@
 {
   "pushed": [
     {
-      "url": "https://www.lennysnewsletter.com/p/glm-52-why-im-replacing-opus-in-claude",
-      "pushed_at": "2026-06-24",
-      "title": "GLM 5.2: why I’m replacing Opus in Claude Code with this new model",
-      "score": 9
-    },
-    {
-      "url": "https://www.ifanr.com/1669687?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "pushed_at": "2026-06-24",
-      "title": "实测豆包专业版，我愿意当第一批掏钱的人",
-      "score": 8
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1uepzz8/i_made_a_tool_that_turns_any_element_you_click/",
-      "pushed_at": "2026-06-24",
-      "title": "I made a tool that turns any element you click into a \"rebuild this\" prompt for ChatGPT/Claude",
-      "score": 7
-    },
-    {
-      "url": "https://fixyourdocs.io/",
-      "pushed_at": "2026-06-24",
-      "title": "Show HN: Agents report broken docs, you get a GitHub issue",
-      "score": 7
-    },
-    {
-      "url": "https://36kr.com/newsflashes/3867180080010245?f=rss",
-      "pushed_at": "2026-06-24",
-      "title": "“临界点”完成近10亿融资",
-      "score": 7
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1uej994/i_built_a_tool_to_make_product_motion_graphics/",
-      "pushed_at": "2026-06-24",
-      "title": "I built a tool to make product motion graphics that look like they cost 10k, by yourself, in an hour",
-      "score": 6
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1uek06s/7_months_no_proper_hardware_one_stubborn_solo_dev/",
-      "pushed_at": "2026-06-24",
-      "title": "7 months, no proper hardware, one stubborn solo dev: my on-device deepfake detector is live",
-      "score": 6
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1uepgz1/i_built_taleweaver_a_local_ai_visual_novel_creator/",
-      "pushed_at": "2026-06-24",
-      "title": "I built TaleWeaver, a local AI Visual Novel creator",
-      "score": 6
-    },
-    {
-      "url": "https://www.latent.space/p/ainews-claude-tag-multiplayer-proactive",
-      "pushed_at": "2026-06-24",
-      "title": "[AINews] Claude Tag: Multiplayer, Proactive, Persistent Agents in Slack",
-      "score": 6
-    },
-    {
-      "url": "https://github.com/theramkm/dspyer",
-      "pushed_at": "2026-06-24",
-      "title": "Show HN: Dspyer – self-correcting, optimizable LLM steps for DSPy and LangGraph",
-      "score": 6
-    },
-    {
-      "url": "https://techcrunch.com/2026/06/24/agility-robotics-plans-to-go-public-via-spac-in-a-2-5b-deal/",
-      "pushed_at": "2026-06-24",
-      "title": "Agility Robotics plans to go public via SPAC in a $2.5B deal",
-      "score": 6
-    },
-    {
-      "url": "https://36kr.com/p/3866900608701449?f=rss",
-      "pushed_at": "2026-06-24",
-      "title": "圆桌对话：诶? AI! AI这个月、AI这一年、AI这五年｜36氪WAVES2026新浪潮",
-      "score": 6
-    },
-    {
-      "url": "https://36kr.com/p/3866649515938825?f=rss",
-      "pushed_at": "2026-06-24",
-      "title": "AI × OPC的新可能：一个人，就是一支队伍｜2026WAVES",
-      "score": 6
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1uer6tr/my_wifes_french_and_no_app_ever_got_me_actually/",
-      "pushed_at": "2026-06-24",
-      "title": "my wife's french and no app ever got me actually speaking it, so i built a tutor that texts me daily and makes me talk",
-      "score": 5
-    },
-    {
-      "url": "https://github.com/Elpulgo/polysbx",
-      "pushed_at": "2026-06-24",
-      "title": "Show HN: Boostrap to try out Claude Code in Docker or sbx or microsandbox",
-      "score": 5
-    },
-    {
-      "url": "https://techcrunch.com/2026/06/24/cerebras-stock-plunges-after-earnings-as-ceo-says-margin-outlook-was-misunderstood/",
-      "pushed_at": "2026-06-24",
-      "title": "Cerebras stock plunges after earnings as CEO says margin outlook was misunderstood",
-      "score": 5
-    },
-    {
-      "url": "https://techcrunch.com/2026/06/24/ai-was-supposed-to-kill-engineering-jobs-but-new-data-suggests-theyre-the-most-resilient/",
-      "pushed_at": "2026-06-24",
-      "title": "AI was supposed to kill engineering jobs, but new data suggests they’re the most resilient",
-      "score": 5
-    },
-    {
-      "url": "https://trends.vc/blind-ai-idle-mac-networks-zero-premium-discovery-risk/",
-      "pushed_at": "2026-06-24",
-      "title": "Blind AI: Idle-Mac Networks, Zero Premium, Discovery Risk",
-      "score": 5
-    },
-    {
-      "url": "https://36kr.com/p/3865425714795525?f=rss",
-      "pushed_at": "2026-06-24",
-      "title": "微信AI助手小微，还有许多做不到的事情｜产品观察",
-      "score": 5
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1ufjjy7/google_flights_hides_the_cheapest_way_to_travel/",
-      "pushed_at": "2026-06-25",
-      "title": "Google Flights hides the cheapest way to travel Europe — so I built a tool that finds it",
-      "score": 7
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1ufmi16/what_8_months_of_aihandled_intake_calls_actually/",
-      "pushed_at": "2026-06-25",
-      "title": "What 8 months of AI-handled intake calls actually looked like",
-      "score": 9
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1ufjdut/six_months_multiple_projects_im_exhausted/",
-      "pushed_at": "2026-06-25",
-      "title": "Six months, multiple projects. I’m exhausted.",
-      "score": 5
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1ufekkv/adding_a_fourth_ai_provider_to_my_side_project/",
-      "pushed_at": "2026-06-25",
-      "title": "Adding a fourth AI provider to my side project feels like a chore now",
-      "score": 5
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1ufh87a/i_built_a_mac_app_where_you_point_at_your_screen/",
-      "pushed_at": "2026-06-25",
-      "title": "I built a Mac app where you point at your screen and talk, and your AI coding agent makes the change without you touching your keyboard",
-      "score": 6
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1uf9gjl/im_15_and_i_am_spending_my_summer_break_building/",
-      "pushed_at": "2026-06-25",
-      "title": "I'm 15 and i am spending my summer break building a quick cli tool to audit mcp server configs for security leaks",
-      "score": 8
-    },
-    {
-      "url": "https://www.therundown.ai/p/openai-spicy-new-custom-ai-chip",
-      "pushed_at": "2026-06-25",
-      "title": "OpenAI's spicy new custom AI chip",
-      "score": 5
-    },
-    {
-      "url": "https://simonwillison.net/2026/Jun/25/ai-and-liability/#atom-everything",
-      "pushed_at": "2026-06-25",
-      "title": "AI and Liability",
-      "score": 5
-    },
-    {
-      "url": "https://krv.ai/field-notes/evaluating-code-generation",
-      "pushed_at": "2026-06-25",
-      "title": "Show HN: Topos – Structural code quality metrics for agent-written programs",
-      "score": 6
-    },
-    {
-      "url": "https://github.com/modernrelay/omnigraph",
-      "pushed_at": "2026-06-25",
-      "title": "Show HN: Omnigraph - object-storage native graph engine with git-style workflows",
-      "score": 5
-    },
-    {
-      "url": "https://github.com/interviewstreet/hiring-agent",
-      "pushed_at": "2026-06-25",
-      "title": "interviewstreet/hiring-agent",
-      "score": 4
-    },
-    {
-      "url": "https://github.com/google-labs-code/design.md",
-      "pushed_at": "2026-06-25",
-      "title": "google-labs-code/design.md",
-      "score": 5
-    },
-    {
-      "url": "https://github.com/kunchenguid/no-mistakes",
-      "pushed_at": "2026-06-25",
-      "title": "kunchenguid/no-mistakes",
-      "score": 8
-    },
-    {
-      "url": "https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
-      "pushed_at": "2026-06-25",
-      "title": "General Intuition’s $2.3B bet that video games can train AI agents for the real world",
-      "score": 6
-    },
-    {
-      "url": "https://techcrunch.com/2026/06/25/netris-raises-15m-series-a-from-a16z-to-help-ai-neoclouds-go-live-faster/",
-      "pushed_at": "2026-06-25",
-      "title": "Netris raises $15M Series A from a16z to help AI neoclouds go live faster",
-      "score": 8
-    },
-    {
-      "url": "https://36kr.com/p/3868523068298499?f=rss",
-      "pushed_at": "2026-06-25",
-      "title": "美光的好财报，黄金的坏消息",
-      "score": 6
-    },
-    {
-      "url": "https://36kr.com/p/3868349472920576?f=rss",
-      "pushed_at": "2026-06-25",
-      "title": "开放麦 | 启明创投胡奇：从AI算法工程师到投资人，与AI一起走过的十年",
-      "score": 5
-    },
-    {
-      "url": "https://36kr.com/p/3868045479711745?f=rss",
-      "pushed_at": "2026-06-25",
-      "title": "峰瑞资本创始合伙人李丰：从资本与流动性视角，看当前AI产业所处周期阶段",
-      "score": 7
-    },
-    {
-      "url": "https://36kr.com/p/3867998907667462?f=rss",
-      "pushed_at": "2026-06-25",
-      "title": "主题圆桌：当所有人都看到泡沫，机器人何时走入真实场景 | 36氪WAVES2026新浪潮",
-      "score": 5
-    },
-    {
-      "url": "https://36kr.com/p/3868029247034371?f=rss",
-      "pushed_at": "2026-06-25",
-      "title": "实现光学载荷批量化交付，苏州商业航天企业再获数亿元融资｜36氪首发",
-      "score": 8
-    },
-    {
       "url": "https://www.reddit.com/r/SideProject/comments/1ug59zk/the_app_i_made_to_solve_my_own_problem_hit_1000/",
       "pushed_at": "2026-06-26",
       "title": "The app I made to solve my own problem hit 1000+ downloads and started to get sales! 🥳",
@@ -7781,6 +7547,78 @@
       "pushed_at": "2026-09-22",
       "title": "App+1 | Coast：用十年经验，给记账这件事一个「终点」",
       "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1wo65w6/jgrep_grep_but_the_pattern_is_a_description/",
+      "pushed_at": "2026-09-24",
+      "title": "jgrep: grep, but the pattern is a description. Filters lines by meaning!",
+      "score": 7
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1wo3wd8/i_built_a_dashboard_to_see_what_we_actually_spend/",
+      "pushed_at": "2026-09-24",
+      "title": "I built a dashboard to see what we actually spend on Claude Code",
+      "score": 7
+    },
+    {
+      "url": "https://www.latent.space/p/ainews-claude-opus-55-the-new-default",
+      "pushed_at": "2026-09-24",
+      "title": "[AINews] Claude Opus 5.5, the new default model for AINews — and everybody cuts prices 40-50%",
+      "score": 8
+    },
+    {
+      "url": "https://simonwillison.net/2026/Sep/23/gemini-tts-playground/",
+      "pushed_at": "2026-09-24",
+      "title": "Gemini 3.8 TTS Playground",
+      "score": 8
+    },
+    {
+      "url": "https://github.com/gojiplus/batchlane",
+      "pushed_at": "2026-09-24",
+      "title": "Show HN: Submit asynchronous LLM batch jobs through one interface",
+      "score": 5
+    },
+    {
+      "url": "https://github.com/IterateAI/lifeboat-releases",
+      "pushed_at": "2026-09-24",
+      "title": "Show HN: Lifeboat, 2-6x more concurrent agent sessions per GPU, no quantization",
+      "score": 5
+    },
+    {
+      "url": "https://github.com/Parcha-ai/agentrun",
+      "pushed_at": "2026-09-24",
+      "title": "Show HN: AgentRun: DSL to turn agents into Workflows",
+      "score": 7
+    },
+    {
+      "url": "https://github.com/davila7/claude-code-templates",
+      "pushed_at": "2026-09-24",
+      "title": "davila7/claude-code-templates",
+      "score": 6
+    },
+    {
+      "url": "https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials/",
+      "pushed_at": "2026-09-24",
+      "title": "Enveda secures $311M to bring more nature-derived AI drugs into clinical trials",
+      "score": 6
+    },
+    {
+      "url": "https://trends.vc/ai-fortune-telling-apps-the-margin-flip-coffee-cup-readings-korean-playbook/",
+      "pushed_at": "2026-09-24",
+      "title": "AI Fortune-Telling Apps: The Margin Flip, Coffee-Cup Readings, Korean Playbook",
+      "score": 8
+    },
+    {
+      "url": "https://www.ifanr.com/1681629?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "pushed_at": "2026-09-24",
+      "title": "Claude 5.5 发布，性能直逼 Fable，还要卷价格",
+      "score": 8
+    },
+    {
+      "url": "https://www.ifanr.com/1681605?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "pushed_at": "2026-09-24",
+      "title": "⁡⁤‬‍⁤‬​‌‍⁢⁡⁢⁣‌‌﻿⁡⁡​⁤​​﻿⁢⁡‬⁡‬​‍⁣​​﻿⁤⁡‍​⁡‬‌‬⁣⁡⁣​⁡‬⁤刚刚，GPT-6 新模型掀桌！「白菜价」杀进 DeepSeek 腹地",
+      "score": 8
     }
   ]
 }
